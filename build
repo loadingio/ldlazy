@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+mkdir -p dist
+echo "build src/ldlz.ls -> dist/ldlz.js ..."
+./node_modules/.bin/lsc -cbp src/ldlz.ls > dist/ldlz.js
+echo "build src/ldlz.styl -> dist/ldlz.css ..."
+./node_modules/.bin/stylus -p src/ldlz.styl > dist/ldlz.css
+echo "minifying ldlz.js ..."
+./node_modules/.bin/uglifyjs dist/ldlz.js > dist/ldlz.min.js
+echo "minifying ldlz.css ..."
+./node_modules/.bin/uglifycss dist/ldlz.css > dist/ldlz.min.css
+echo "done."
+
