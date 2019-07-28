@@ -2,11 +2,9 @@ doctype
 html
   head
     link(rel="stylesheet",type="text/css",href="css/index.css")
-  body(style="min-height:5000px;background:linear-gradient(180deg,#cdf,#dfd) fixed")
-    include list-200.pug
-    //-include list-allshow-200.pug
+  body(style="min-height:5000px;background:linear-gradient(180deg,#cdf,#dfd)")
+    include list-allshow-200.pug
     //-.img(style="background:url(rain.svg)",data-src="rain.svg")
-    script(src="assets/debounce/debounce.min.js")
     script(src="js/index.js")
     script: :lsc
       setInterval (->
