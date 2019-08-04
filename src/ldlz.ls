@@ -1,24 +1,58 @@
 (->
-  lzs = Array.from(document.querySelectorAll('.ldlz'))
-  document.addEventListener \scroll, ->
-    for i from 0 til lzs.length => 
-      n = lzs[i]
-      box = n.getBoundingClientRect!
-      if box.y >= 0 and box.y + box.height <= window.innerHeight =>
-	n.style.background = "url(#{n.getAttribute('data-src')})"
-      else n.style.background = \#f00
+  ldLazyShow = (opt = {}) ->
+    root = opt.root
+    @opt = {debounce: 10} <<< opt
+    @root = root = if typeof(root) == \string => document.querySelector(root) else if root => root else null
+    @pending = []
 
-  obs = new IntersectionObserver update, do
-    root: document.body
-    rootMargin: '0px'
-    threshold: 1.0
+    if @opt.debounce => 
+      debounced = debounce (@opt.debounce or 10), ~>
+        #@handle @list
+        @handle @pending
+        @pending = []
+      update = (ns) ~>
+        ns.map -> it.target._lzs <<< changed: true, visible: it.isIntersecting
+        @pending ++= (ns.map -> it.target)
+        debounced ns.map -> it.target
+    else (ns) ~>
+      update = (ns) ~>
+        ns.map -> it.target._lzs <<< changed: true, visible: it.isIntersecting
+        @handle ns.map -> it.target
 
-  lzs.map -> 
-  obs = lzs.map (n) ->
-    opt = do
-      root: n
-      rootMargin: '0px'
-      threshold: 1.0
-    return new IntersectionObserver (-> console.log \ok), opt
+    @obs = new IntersectionObserver update, {root}
+    @list = []
+    @
+
+  ldLazyShow.prototype = Object.create(Object.prototype) <<< do
+    add: (n) ->
+      @obs.observe n
+      @list.push n
+      n._lzs = {}
+    remove: (n) ->
+      @obs.unobserve n
+      @list.splice @list.indexOf(n), 1
+      delete n._lzs
+    handle: (l) ->
+      console.log ">", l.length
+      l.map (n) ~>
+        o = n._lzs
+        if !o.changed => return else o.changed = false
+        if o.visible =>
+          n.style.backgroundImage = "url(#{n.getAttribute('data-src')})"
+          n.style.opacity = 1
+        else
+          n.style.backgroundImage = \none
+          n.style.opacity = 0
+      if @opt.toggle => l.map (n) ~> 
+        o = n._lzs
+        if !o.changed => return
+        @opt.toggle n, o.visible
+
+  window.addEventListener \DOMContentLoaded, ->
+    _ = new ldLazyShow!
+    lzs = Array.from(document.querySelectorAll('.ldlz'))
+    lzs.map -> _.add it
+
+  if module? => module.exports = ldLazyShow
+  if window => window.ldLazyShow = ldLazyShow
 )!
-

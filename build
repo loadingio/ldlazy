@@ -8,5 +8,8 @@ echo "minifying ldlz.js ..."
 ./node_modules/.bin/uglifyjs dist/ldlz.js > dist/ldlz.min.js
 echo "minifying ldlz.css ..."
 ./node_modules/.bin/uglifycss dist/ldlz.css > dist/ldlz.min.css
+echo "deploy into local web ..."
+mkdir -p web/static/assets/ldlz/
+cp -R dist/* web/static/assets/ldlz/
 echo "done."
 
