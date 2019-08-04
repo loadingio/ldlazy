@@ -33,7 +33,6 @@
       @list.splice @list.indexOf(n), 1
       delete n._lzs
     handle: (l) ->
-      console.log ">", l.length
       l.map (n) ~>
         o = n._lzs
         if !o.changed => return else o.changed = false

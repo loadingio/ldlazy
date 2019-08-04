@@ -63,7 +63,6 @@
     },
     handle: function(l){
       var this$ = this;
-      console.log(">", l.length);
       l.map(function(n){
         var o;
         o = n._lzs;
