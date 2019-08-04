@@ -12,6 +12,8 @@ body {
   border: 1px solid #000;
   display: block;
   margin: 10px auto;
+}
+.ldlz {
   transition: opacity 0.5s linear;
 }
 .img.big {
