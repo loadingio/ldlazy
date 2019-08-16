@@ -5,7 +5,7 @@
     @root = root = if typeof(root) == \string => document.querySelector(root) else if root => root else null
     @pending = []
 
-    if @opt.debounce => 
+    if @opt.debounce and debounce? =>
       debounced = debounce (@opt.debounce or 10), ~>
         #@handle @list
         @handle @pending
@@ -42,7 +42,7 @@
         else
           n.style.backgroundImage = \none
           n.style.opacity = 0
-      if @opt.toggle => l.map (n) ~> 
+      if @opt.toggle => l.map (n) ~>
         o = n._lzs
         if !o.changed => return
         @opt.toggle n, o.visible

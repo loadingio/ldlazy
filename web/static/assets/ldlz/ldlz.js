@@ -12,7 +12,7 @@
       ? document.querySelector(root)
       : root ? root : null;
     this.pending = [];
-    if (this.opt.debounce) {
+    if (this.opt.debounce && (typeof debounce != 'undefined' && debounce !== null)) {
       debounced = debounce(this.opt.debounce || 10, function(){
         this$.handle(this$.pending);
         return this$.pending = [];
