@@ -14,7 +14,7 @@
         ns.map -> it.target._lzs <<< changed: true, visible: it.isIntersecting
         @pending ++= (ns.map -> it.target)
         debounced ns.map -> it.target
-    else (ns) ~>
+    else
       update = (ns) ~>
         ns.map -> it.target._lzs <<< changed: true, visible: it.isIntersecting
         @handle ns.map -> it.target

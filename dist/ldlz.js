@@ -30,18 +30,15 @@
         }));
       };
     } else {
-      (function(ns){
-        var update;
-        return update = function(ns){
-          ns.map(function(it){
-            var ref$;
-            return ref$ = it.target._lzs, ref$.changed = true, ref$.visible = it.isIntersecting, ref$;
-          });
-          return this$.handle(ns.map(function(it){
-            return it.target;
-          }));
-        };
-      });
+      update = function(ns){
+        ns.map(function(it){
+          var ref$;
+          return ref$ = it.target._lzs, ref$.changed = true, ref$.visible = it.isIntersecting, ref$;
+        });
+        return this$.handle(ns.map(function(it){
+          return it.target;
+        }));
+      };
     }
     this.obs = new IntersectionObserver(update, {
       root: root
