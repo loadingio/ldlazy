@@ -1,50 +1,62 @@
-doctype
+doctype html
+include ../../static/assets/lib/pug/ldui.pug
 html
   head
-    link(rel="stylesheet",type="text/css",href="css/index.css")
-    style(type="text/css"): :stylus
-      @keyframes ani
-        0%   { transform: rotate(0deg) }
-        50%  { transform: rotate(180deg) }
-        100% { transform: rotate(360deg) }
-      .lda
-        will-change: transform, opacity
-        animation: ani .5s linear infinite
-        width: 64px
-        height: 64px
-        background: #f00
-        border: 12px solid
-        border-color: #ff0 transparent transparent transparent
-        border-radius: 50%
-        display: block
-        margin: 10px
-        
-  body(style="min-height:5000px;background:linear-gradient(180deg,#cdf,#dfd) fixed")
-    .ldlz(data-src="assets/img/svg/a03yq6.svg",style="width:300px;height:300px;background-size:64px 64px")
-    //-each i in [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16]
-      each j in [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16]
-        .lda.ldlz
+    link(href="https://fonts.googleapis.com/css?family=Oxygen:300,700|Roboto:300,500,700|BenchNine|Varela+Round&display=swap", rel="stylesheet")
+    +css("assets/lib/ldui.min.css")
+    +css("assets/lib/bootstrap.min.css")
+    +css("assets/lib/ldlz.min.css")
+    +css("css/index.css")
+  body
+    .w-100.h-50.vertical-center.text-center.rwd.bg-light
+      .w-100
+        h1.display-4.font-weight-bold ldLazy
+        p JS library that "shows" images only if they are in viewport.
+        img.ldlz(src="assets/img/sketch-1.gif")
+        img.ldlz(src="assets/img/sketch-3.gif")
+        img.ldlz(src="assets/img/sketch-5.gif")
+    .w-1024.rwd.p-4.mx-auto.typeset.heading-contrast
+      .row
+        .col-md-9
 
-    div
-      each i in [1,2,3,4,5,6,7,8]
-        each j in [1,2,3,4,5,6,7,8]
-          .lda.ldlz
-      include list-200.pug
+          h2 About
+          p Instead of lazy loading, #[b ldLazy] is a lazy "showing" library that shows image only if they are in the viewport.
+          h2 Usage
+          p include the required js files, which could be found in its #[a(href="https://github.com/loadingio/ldLazy/",target="_blank") Github repository]:
+          .example.code-block.
+            &lt;script src="ldlz.js"&gt;&lt;/script&gt;
+          p Then, create and initialize the ldLazy instance:
+          .example.code-block.
+            var ldlz = new ldLazy({
+              root: document.body,
+              toggle: function(n) { ... }
+            });
+            ldlz.add( ... );
+          h2 Configurations
+          p To config ldLazy, pass an object with configs from any of following:
+          ul
+            li #[code root] - root element for monitoring scroll.
+            li #[code toggle] - when visibility changes, toggle will be called with the target node as param. default null.
+            li #[code debounce] - millisecond delay before handling events. require #[a(href="https://github.com/loadingio/debounce.js",target="_blank") debounce.js], otherwise will be ignored.
+          h2 APIs
+          ul
+            li #[code ldlz.add(n)] - start monitoring node n for visibility change.
+            li #[code ldlz.remove(n)] - stop monitoring node n for visibility change.
+          h2 License
+          p MIT License.
+        .col-md-3
+          each i in [1,2,3,4,5]
+            img.mb-4.w-100.ldlz.ratio-1by1(data-src=`assets/img/c${i}.svg`)
 
-    //-div
-      each i in [1,2,3,4,5,6,7,8]
-        each j in [1,2,3,4,5,6,7,8]
-          .lda
-      include list-allshow-200.pug
-    //-.img(style="background:url(rain.svg)",data-src="rain.svg")
-    script(src="assets/debounce/debounce.min.js")
-    script(src="assets/ldlz/ldlz.min.js")
-    script(src="js/index.js")
-    script: :lsc
-      setInterval (->
-        v = 0
-        t1 = Date.now!
-        for i from 0 til 1000000 => v += Math.random!
-        t2 = Date.now!
-        console.log t2 - t1
-      ), 2000
+    .w-1024.rwd.my-4.mx-auto
+      h2.text-center.font-weight-bold 320 Animated Patterns
+      .d-flex.justify-content-around.flex-wrap
+        each a in [1,2,3,4,5,6,7,8]
+          each b in [1,2,3,4,5,6,7,8]
+            each i in [1,2,3,4,5]
+              img.m-4.ldlz(data-src=`assets/img/c${i}.svg`,style="width:128px;height:128px")
+
+    +script("assets/lib/ldui.min.js")
+    +script("assets/lib/ldlz.min.js")
+    +script("js/index.js")
+

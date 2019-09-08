@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="256px" height="256px">
+<style type="text/css">@keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}</style>
+<rect x="0" y="0" width="256" height="256" fill="#eee"/>
+<defs>
+  <g id="id-0.8180133292637843"><!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><path style="fill:#c33737" d="M76.861,21.725C69.823,15.03,60.71,11.255,51,11.013V26.37c5.61,0.232,10.871,2.411,15.002,6.214 L76.861,21.725z"/><path style="fill:#77a4bd" d="M49,11.013c-9.71,0.242-18.823,4.017-25.861,10.712l10.859,10.859 C38.129,28.781,43.39,26.602,49,26.37V11.013z"/><path style="fill:#a0c8d7" d="M21.725,23.139C15.03,30.177,11.255,39.29,11.013,49H26.37c0.232-5.61,2.411-10.871,6.214-15.002 L21.725,23.139z"/><path style="fill:#abbd81" d="M23.139,78.275C30.177,84.97,39.29,88.745,49,88.987V73.63c-5.61-0.232-10.871-2.411-15.002-6.214 L23.139,78.275z"/><path style="fill:#f8b26a" d="M51,88.987c9.71-0.242,18.823-4.017,25.861-10.712L66.002,67.416 C61.871,71.219,56.61,73.398,51,73.63V88.987z"/><path style="fill:#f47e60" d="M78.275,76.861C84.97,69.823,88.745,60.71,88.987,51H73.63c-0.232,5.61-2.411,10.871-6.214,15.002 L78.275,76.861z"/><path style="fill:#849b87" d="M11.013,51c0.242,9.71,4.017,18.823,10.712,25.861l10.859-10.859 C28.781,61.871,26.602,56.61,26.37,51H11.013z"/><path style="fill:#e15b64" d="M73.63,49h15.357c-0.242-9.71-4.017-18.823-10.712-25.861L67.416,33.998 C71.219,38.129,73.398,43.39,73.63,49z"/><metadata xmlns:d="https://loading.io/stock/"><d:name>ring</d:name><d:tags>ring,donut,pie,component,composition,group,infographics</d:tags><d:license>cc-by</d:license><d:slug>9qguau</d:slug></metadata></g>
+  <g id="id-0.8180133292637843-2">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+
+
+
+
+
+    <g transform=" translate(192,191.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:0s"><g data-icon="">  <use href="#id-0.8180133292637843" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(192,63.9995) scale(0.5555555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.125s"><g data-icon="">  <use href="#id-0.8180133292637843" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,63.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:-0.25s"><g data-icon="">  <use href="#id-0.8180133292637843" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,191.9995) scale(0.5555555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.375s"><g data-icon="">  <use href="#id-0.8180133292637843" x="-50" y="-50"/>
+</g></g></g>
+  </g>
+</defs>
+<g>
+  <use href="#id-0.8180133292637843-2" x="0" y="0"/>
+  <use href="#id-0.8180133292637843-2" x="-256" y="0"/>
+  <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s"
+  keyTimes="0;1" values="0;256"/>
+</g>
+</svg>

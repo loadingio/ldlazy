@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="256px" height="256px">
+<style type="text/css">@keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}</style>
+<rect x="0" y="0" width="256" height="256" fill="#eee"/>
+<defs>
+  <g id="id-0.8858626429491421"><!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><path fill="#FCE9F2" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d=" M86.294,50.525c0-16.556-16.102-29.978-35.965-29.978c-14.983,0-27.821,7.639-33.227,18.497h-3.737 c-2.698,0-4.886,2.152-4.886,4.806v12.075c0,2.654,2.187,4.806,4.886,4.806h3.145c2.228,5.126,6.079,9.603,11.044,12.994 l-2.39,8.677l16.419,4.303c0.736-2.705,1.471-5.41,2.207-8.115c1.571,0.739,3.789,1.559,6.539,1.913 c5.212,0.671,9.388-0.712,11.443-1.559l2.137,7.76l16.419-4.303L77.07,70.568C82.803,65.257,86.294,58.231,86.294,50.525z"/><path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d=" M60.99,30.027c-4.233-1.485-8.808-2.112-13.518-1.7c-0.929,0.081-1.846,0.202-2.75,0.359"/><path fill="#EF66B2" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d=" M35.358,17.623c-4.305-3.506-10.638-2.858-14.144,1.448l15.592,12.696C40.311,27.461,39.663,21.129,35.358,17.623z"/><ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -20.3351 33.7128)" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="30.527" cy="41.403" rx="3.575" ry="3.575"/><path fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d=" M77.565,31.016c0.332-3.842,2.63-7.281,5.462-9.897c1.535-1.418,3.604-2.719,5.596-2.088c1.665,0.527,2.681,2.298,2.865,4.035 c0.186,1.754-0.435,3.704-1.941,4.622c-1.351,0.823-3.172,0.631-4.489-0.247c-1.316-0.878-2.162-2.342-2.554-3.875 c-0.83-3.24,0.342-6.907,2.897-9.064c0.816-0.689,1.928-1.213,2.954-1.204"/><metadata xmlns:d="https://loading.io/stock/"><d:name>moneybox</d:name><d:tags>moneybox, porcelain, cute, piggy bank, coin bank, deposit box</d:tags><d:license>cc-by</d:license><d:slug>yr648m</d:slug></metadata></g>
+  <g id="id-0.8858626429491421-2">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+
+
+
+    <g transform=" translate(192,191.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:0s"><g data-icon="">  <use href="#id-0.8858626429491421" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,63.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:-0.25s"><g data-icon="">  <use href="#id-0.8858626429491421" x="-50" y="-50"/>
+</g></g></g>
+  </g>
+</defs>
+<g>
+  <use href="#id-0.8858626429491421-2" x="0" y="0"/>
+  <use href="#id-0.8858626429491421-2" x="-256" y="0"/>
+  <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s"
+  keyTimes="0;1" values="0;256"/>
+</g>
+</svg>

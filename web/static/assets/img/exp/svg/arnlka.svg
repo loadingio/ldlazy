@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="256px" height="256px">
+<style type="text/css">@keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}</style>
+<rect x="0" y="0" width="256" height="256" fill="#eee"/>
+<defs>
+  <g id="id-0.8151051887924272"><!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><path style="fill:#f8b26a" d="M50,74.934c-8.348,0-16.168-4.233-20.769-11.144l-13.061,7.541 C23.475,82.885,36.295,89.999,50,89.999s26.525-7.114,33.829-18.668l-13.061-7.541C66.168,70.702,58.348,74.934,50,74.934z"/><path style="fill:#e15b64" d="M71.592,37.532c2.188,3.781,3.344,8.093,3.344,12.468c0,3.853-0.897,7.657-2.605,11.093l13.061,7.541 C88.411,62.906,90,56.497,90,49.999c0-7.018-1.854-13.933-5.363-19.997C77.759,18.116,65.189,10.567,51.558,10.03v15.084 C59.829,25.637,67.403,30.294,71.592,37.532z"/><path style="fill:#fff" d="M48.5,8.5v0.05C49,8.532,49.498,8.5,50,8.5H48.5z"/><path style="fill:#abbd81" d="M15.363,30.002C11.854,36.067,10,42.981,10,49.999c0,6.498,1.589,12.907,4.609,18.633l13.061-7.541 c-1.708-3.435-2.605-7.239-2.605-11.093c0-4.375,1.156-8.686,3.344-12.468c4.188-7.238,11.763-11.895,20.033-12.418V10.03 C34.811,10.567,22.241,18.116,15.363,30.002z"/><path style="fill:#fff" d="M51.5,8.5H50c0.502,0,1,0.032,1.5,0.05V8.5z"/><metadata xmlns:d="https://loading.io/stock/"><d:name>pie</d:name><d:tags>pie,donut,circle,percent,proportion,ratio,chart</d:tags><d:license>cc-by</d:license><d:slug>24suud</d:slug></metadata></g>
+  <g id="id-0.8151051887924272-2">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+
+
+
+
+<ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -96.2592 93.9447)" fill="#B3B4B4" cx="69.5" cy="167.5" rx="5.5" ry="5.5"/>
+<ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 15.9378 184.9119)" fill="#B3B4B4" cx="239.5" cy="72.5" rx="5.5" ry="5.5"/>
+<g>
+	
+		<line fill="none" stroke="#B3B4B5" stroke-width="6.3333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="192" y1="125.5" x2="211" y2="125.5"/>
+	
+		<line fill="none" stroke="#B3B4B5" stroke-width="6.3333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="201.5" y1="135" x2="201.5" y2="116"/>
+</g>
+<g>
+	
+		<line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="186" y1="244" x2="198" y2="244"/>
+	
+		<line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="192" y1="250" x2="192" y2="238"/>
+</g>
+<g>
+	
+		<line fill="none" stroke="#B3B4B5" stroke-width="7.3333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="9.5" y1="46.5" x2="31.5" y2="46.5"/>
+	
+		<line fill="none" stroke="#B3B4B5" stroke-width="7.3333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="20.5" y1="57.5" x2="20.5" y2="35.5"/>
+</g>
+<ellipse transform="matrix(0.4903 -0.8715 0.8715 0.4903 7.2038 156.6452)" fill="#B3B4B4" cx="137.531" cy="72.163" rx="6.525" ry="6.525"/>
+<ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -109.6566 158.3945)" fill="#B3B4B4" cx="143.5" cy="216.5" rx="5.5" ry="5.5"/>
+<ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 0.2332 72.5839)" fill="#B3B4B4" cx="91" cy="36" rx="4" ry="4"/>
+<ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -34.1432 212.4976)" fill="#B3B4B4" cx="249" cy="149" rx="4" ry="4"/>
+<ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -163.3891 70.8358)" fill="#B3B4B4" cx="7" cy="240" rx="4" ry="4"/>
+
+
+    <g transform="matrix(0.9912 0.1325 -0.1325 0.9912 19.5946 -16.4002) translate(133,138.9995) scale(0.6222222222222222)"><g class="ld ld-pulse" style="animation-delay:0s"><g data-icon="">  <use href="#id-0.8151051887924272" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.8102 -0.5862 0.5862 0.8102 21.907 110.1873) translate(181.074,21.271) scale(0.3916444444444444)"><g class="ld ld-pulse" style="animation-delay:-0.1s"><g data-icon="">  <use href="#id-0.8151051887924272" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.7153 0.6988 -0.6988 0.7153 199.1367 -101.9661) translate(224.712,193.41799999999998) scale(0.3647555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.2s"><g data-icon="">  <use href="#id-0.8151051887924272" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.7812 0.6242 -0.6242 0.7812 76.8196 -5.7423) translate(46.602000000000004,106.7265) scale(0.3879111111111111)"><g class="ld ld-pulse" style="animation-delay:-0.3s"><g data-icon="">  <use href="#id-0.8151051887924272" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.7381 -0.6747 0.6747 0.7381 -136.8065 106.8361) translate(69.2025,229.6265) scale(0.5011777777777778)"><g class="ld ld-pulse" style="animation-delay:-0.4s"><g data-icon="">  <use href="#id-0.8151051887924272" x="-50" y="-50"/>
+</g></g></g>
+  </g>
+</defs>
+<g>
+  <use href="#id-0.8151051887924272-2" x="0" y="0"/>
+  <use href="#id-0.8151051887924272-2" x="-256" y="0"/>
+  <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s"
+  keyTimes="0;1" values="0;256"/>
+</g>
+</svg>

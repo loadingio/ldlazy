@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="256px" height="256px">
+<style type="text/css">@keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}</style>
+<rect x="0" y="0" width="256" height="256" fill="#eee"/>
+<defs>
+  <g id="id-0.3067790499092209"><!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><path style="fill:#e0e0e0" d="M43.509,67.2c8.274,4.405,18.608,1.508,23.331-6.673l11.824-20.48 c4.723-8.181,2.065-18.579-5.887-23.542l0.681-1.18c1.348-2.336,0.548-5.322-1.787-6.671S66.349,8.107,65,10.442l-0.681,1.18 c-8.274-4.405-18.608-1.508-23.331,6.673l-11.824,20.48c-4.723,8.181-2.065,18.579,5.887,23.542L30.038,71h11.277L43.509,67.2z"/><path style="fill:#66503a" d="M19.766,79.67c-1.594,2.76-0.648,6.29,2.112,7.883c1.208,0.698,2.564,0.908,3.84,0.694 c0.452,1.213,1.313,2.281,2.521,2.979c2.76,1.594,6.29,0.648,7.883-2.112c1.386-2.4,0.85-5.381-1.129-7.166L41.315,71H30.038 l-3.501,6.064C24.001,76.244,21.152,77.27,19.766,79.67z"/><metadata xmlns:d="https://loading.io/stock/"><d:name>meat</d:name><d:tags>meat,food,leg,pork,dish,dinner,lunch,eat,diet,percent,ratio</d:tags><d:license>cc-by</d:license><d:slug>hopdy1</d:slug></metadata></g>
+  <g id="id-0.3067790499092209-2">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+
+
+
+    <g transform=" translate(192,191.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:0s"><g data-icon="">  <use xlink:href="#id-0.3067790499092209" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,63.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:-0.25s"><g data-icon="">  <use xlink:href="#id-0.3067790499092209" x="-50" y="-50"/>
+</g></g></g>
+  </g>
+</defs>
+<g>
+  <use xlink:href="#id-0.3067790499092209-2" x="0" y="0"/>
+  <use xlink:href="#id-0.3067790499092209-2" x="-256" y="0"/>
+  <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s"
+  keyTimes="0;1" values="0;256"/>
+</g>
+</svg>

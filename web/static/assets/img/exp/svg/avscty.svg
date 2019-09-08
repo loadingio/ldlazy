@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="256px" height="256px">
+<style type="text/css">@keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}</style>
+<rect x="0" y="0" width="256" height="256" fill="#eee"/>
+<defs>
+  <g id="id-0.032898176406671364"><!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><path style="fill:#c33737" d="M84.092,51.044l7.704-7.261c0.785-0.74,0.486-2.051-0.542-2.377l-10.091-3.199 c-0.776-0.246-1.184-1.094-0.893-1.854l3.791-9.884c0.386-1.007-0.452-2.058-1.52-1.906L72.06,26.06 c-0.806,0.115-1.542-0.472-1.609-1.283l-0.873-10.55c-0.089-1.075-1.3-1.658-2.196-1.058l-8.793,5.895 c-0.676,0.453-1.594,0.244-2.006-0.458L51.219,9.48c-0.547-0.93-1.891-0.93-2.438,0l-5.364,9.127 c-0.412,0.702-1.33,0.911-2.006,0.458l-8.793-5.895c-0.896-0.601-2.107-0.017-2.196,1.058l-0.873,10.55 c-0.067,0.811-0.803,1.398-1.609,1.283l-10.48-1.496c-1.068-0.153-1.906,0.899-1.52,1.906l3.791,9.884 c0.291,0.76-0.117,1.608-0.893,1.854L8.747,41.407c-1.028,0.326-1.327,1.637-0.542,2.377l7.704,7.261c0.592,0.558,0.592,1.5,0,2.058 l-7.704,7.261c-0.785,0.74-0.486,2.051,0.542,2.377l10.091,3.199c0.776,0.246,1.184,1.094,0.893,1.854l-3.791,9.884 c-0.386,1.007,0.452,2.058,1.52,1.906l10.48-1.496c0.806-0.115,1.542,0.472,1.609,1.283l0.873,10.55 c0.089,1.075,1.3,1.658,2.196,1.058l8.793-5.895c0.234-0.157,0.496-0.229,0.757-0.234l41.61-33.351 C83.851,51.331,83.952,51.175,84.092,51.044z"/><path style="fill:#f8b26a" d="M42.069,83.068c0.453,0.427,0.553,1.074,0.314,1.606l41.61-33.351 c-0.493,0.01-0.979-0.233-1.249-0.692l-5.364-9.127c-0.547-0.93-1.891-0.93-2.438,0l-5.364,9.127 c-0.412,0.702-1.33,0.911-2.006,0.458l-8.793-5.895c-0.896-0.601-2.107-0.017-2.196,1.058l-0.873,10.55 c-0.067,0.811-0.803,1.398-1.609,1.283l-10.48-1.496c-1.068-0.152-1.906,0.899-1.52,1.906l3.791,9.884 c0.291,0.76-0.117,1.608-0.893,1.854L34.907,73.43c-1.028,0.326-1.327,1.637-0.542,2.377L42.069,83.068z"/><metadata xmlns:d="https://loading.io/stock/"><d:name>sticker</d:name><d:tags>sticker,label,tag,paste</d:tags><d:license>cc-by</d:license><d:slug>l1gslj</d:slug></metadata></g>
+  <g id="id-0.032898176406671364-2">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+
+
+
+
+
+    <g transform=" translate(192,191.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:0s"><g data-icon="">  <use href="#id-0.032898176406671364" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(192,63.9995) scale(0.5555555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.125s"><g data-icon="">  <use href="#id-0.032898176406671364" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,63.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:-0.25s"><g data-icon="">  <use href="#id-0.032898176406671364" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,191.9995) scale(0.5555555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.375s"><g data-icon="">  <use href="#id-0.032898176406671364" x="-50" y="-50"/>
+</g></g></g>
+  </g>
+</defs>
+<g>
+  <use href="#id-0.032898176406671364-2" x="0" y="0"/>
+  <use href="#id-0.032898176406671364-2" x="-256" y="0"/>
+  <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s"
+  keyTimes="0;1" values="0;256"/>
+</g>
+</svg>

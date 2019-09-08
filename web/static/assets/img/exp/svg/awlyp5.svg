@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="256px" height="256px">
+<style type="text/css">@keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}</style>
+<rect x="0" y="0" width="256" height="256" fill="#eee"/>
+<defs>
+  <g id="id-0.28885105794034627"><!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><g><path style="fill:#fcee21;stroke:#000;stroke-width:3;stroke-miterlimit:10" d="M36.2,53c0,0,2.9-4.4,6.4-4.3 c0,0,0.7,0.5,0.3,7.8l0,0C39.2,57,36.2,53,36.2,53z"/><path style="fill:#fff;stroke:#000;stroke-width:3;stroke-miterlimit:10" d="M55.9,72.7c0.7,0.3,9.7,3.4,18.4-1.3 c4.7-2.6,7.2-6.3,11.1-12.2c3.2-4.9,5.2-9.3,6.5-12.4c-7.3,1.5-11.8,0-14.6-1.5c-5.3-2.9-5.5-7-11.4-9.4c-5.8-2.4-11.3-0.5-12-0.3 c-7,2.5-9.8,8.8-10.4,10.1c-4,9,0.6,17.3,1,17.9C48.1,69.8,53.9,72,55.9,72.7z"/><ellipse transform="matrix(0.8869 -0.462 0.462 0.8869 -15.7507 30.9067)" style="stroke:#000;stroke-width:2;stroke-miterlimit:10" cx="55.2" cy="47.6" rx="2.6" ry="2.3"/><g><path style="fill:#ff7bac;stroke:#000;stroke-width:3;stroke-miterlimit:10" d="M64.4,78.5c-1.2-4.2-2.3-8.3-3.5-12.5 c3.6,1.9,7.1,3.9,10.7,5.8c1.7,2.2,1.6,5.5-0.4,7.4C69.3,81,66.2,80.7,64.4,78.5z"/><path style="fill:#ff7bac;stroke:#000;stroke-width:3;stroke-miterlimit:10" d="M72.6,68.3c-3.6-2.1-7.2-4.2-10.8-6.3 c3.8-1.3,7.6-2.6,11.4-3.9c2.7,0.3,4.8,2.8,4.6,5.6C77.6,66.4,75.3,68.5,72.6,68.3z"/><path style="fill:#ff7bac;stroke:#000;stroke-width:3;stroke-miterlimit:10" d="M72.8,54.3c-3.9,1.2-7.8,2.4-11.8,3.6 c1.8-3.8,3.6-7.6,5.4-11.3c2.1-1.8,5.2-1.6,7,0.5C75.2,49.2,74.9,52.5,72.8,54.3z"/></g><g><path style="fill:none;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10" d="M28.6,42.9 c0.6,0.3,4.9,2.2,6.3,7c1.1,3.8-0.1,8-3,10.9"/><g><path style="fill:#8cc63f;stroke:#000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10" d="M29.1,24.9 c-0.6,3.2-6.9,4.8-6.9,4.8s-5.4-3.7-4.8-6.9c0.6-3.2,7.1-5.5,5.8,1.1C24.5,17.3,29.7,21.7,29.1,24.9z"/><path style="fill:#8cc63f;stroke:#000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10" d="M13.4,25.6 c3.2,0.6,4.8,6.9,4.8,6.9s-3.7,5.4-6.9,4.8c-3.2-0.6-5.5-7.1,1.1-5.8C5.9,30.3,10.2,25,13.4,25.6z"/><path style="fill:#8cc63f;stroke:#000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10" d="M14.2,41.4 c0.6-3.2,6.9-4.8,6.9-4.8s5.4,3.7,4.8,6.9c-0.6,3.2-7.1,5.5-5.8-1.1C18.8,48.9,13.6,44.6,14.2,41.4z"/><path style="fill:#8cc63f;stroke:#000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10" d="M29.9,40.6 c-3.2-0.6-4.8-6.9-4.8-6.9s3.7-5.4,6.9-4.8c3.2,0.6,5.5,7-1,5.9C37.5,35.9,33.2,41.1,29.9,40.6z"/></g></g></g><metadata xmlns:d="https://loading.io/stock/"><d:name>bird</d:name><d:tags>bird,christmas</d:tags><d:license>cc-by</d:license><d:slug>4vh2so</d:slug></metadata></g>
+  <g id="id-0.28885105794034627-2">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <g transform=" translate(151,149.9995) scale(0.6222222222222222)"><g class="ld ld-pulse" style="animation-delay:0s"><g data-icon="">  <use href="#id-0.28885105794034627" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.9628 0.2703 -0.2703 0.9628 41.3411 -58.0147) translate(231.293,121.08149999999999) scale(0.5214666666666667)"><g class="ld ld-pulse" style="animation-delay:-0.05s"><g data-icon="">  <use href="#id-0.28885105794034627" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(-0.0456 0.999 -0.999 -0.0456 207.6542 -74.2389) translate(139.293,62.081500000000005) scale(0.5214666666666667)"><g class="ld ld-pulse" style="animation-delay:-0.1s"><g data-icon="">  <use href="#id-0.28885105794034627" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.2398 -0.9708 0.9708 0.2398 127.6881 219.61) translate(204.074,28.271) scale(0.3916444444444444)"><g class="ld ld-pulse" style="animation-delay:-0.15s"><g data-icon="">  <use href="#id-0.28885105794034627" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.5905 -0.8071 0.8071 0.5905 -96.797 253.4085) translate(201.293,222.0815) scale(0.5214666666666667)"><g class="ld ld-pulse" style="animation-delay:-0.2s"><g data-icon="">  <use href="#id-0.28885105794034627" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.8618 0.5073 -0.5073 0.8618 120.0863 -26.4095) translate(108.50649999999999,207.1645) scale(0.44135555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.25s"><g data-icon="">  <use href="#id-0.28885105794034627" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.9981 0.0609 -0.0609 0.9981 7.8271 -4.6047) translate(79.461,126.11449999999999) scale(0.43675555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.3s"><g data-icon="">  <use href="#id-0.28885105794034627" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(-0.7024 0.7118 -0.7118 -0.7024 125.7862 11.6317) translate(60.461,32.1145) scale(0.43675555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.35s"><g data-icon="">  <use href="#id-0.28885105794034627" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.8596 0.511 -0.511 0.8596 47.5053 -5.4135) translate(33.602,83.7265) scale(0.3879111111111111)"><g class="ld ld-pulse" style="animation-delay:-0.4s"><g data-icon="">  <use href="#id-0.28885105794034627" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.5692 -0.8222 0.8222 0.5692 -149.2038 124.5031) translate(44.2025,204.6265) scale(0.5011777777777778)"><g class="ld ld-pulse" style="animation-delay:-0.45s"><g data-icon="">  <use href="#id-0.28885105794034627" x="-50" y="-50"/>
+</g></g></g>
+  </g>
+</defs>
+<g>
+  <use href="#id-0.28885105794034627-2" x="0" y="0"/>
+  <use href="#id-0.28885105794034627-2" x="-256" y="0"/>
+  <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s"
+  keyTimes="0;1" values="0;256"/>
+</g>
+</svg>

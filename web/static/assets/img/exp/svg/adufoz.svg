@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="256px" height="256px">
+<style type="text/css">@keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}</style>
+<rect x="0" y="0" width="256" height="256" fill="#eee"/>
+<defs>
+  <g id="id-0.9513510417025322"><!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><path style="fill:none" d="M53.643,35.354c-1.105,0-2.108,0.42-2.898,1.215c-0.289,0.291-0.539,0.621-0.756,0.977 c-0.782-1.281-1.947-2.192-3.631-2.192c-5.439,0-5.439,4.808-5.439,7.119v8.786c0,0.782,0.634,1.417,1.417,1.417 s1.417-0.635,1.417-1.417v-8.786c0-3.665,0.65-4.284,2.604-4.284c1.648,0,2.216,3.625,2.225,5.298c0,0.009,0,0.018,0,0.027 c0.005,0.78,0.638,1.409,1.417,1.409c0.001,0,0.003,0,0.004,0c0.781-0.002,1.413-0.636,1.413-1.417c0-0.017,0-0.032,0-0.049 c0.002-0.966,0.245-3.791,1.338-4.889c0.261-0.262,0.535-0.379,0.888-0.379c1.986,0,2.604,0.591,2.604,4.284v8.786 c0,0.782,0.634,1.417,1.417,1.417s1.417-0.635,1.417-1.417v-8.786C59.082,40.163,59.082,35.354,53.643,35.354z"/><path style="fill:#e0e0e0" d="M62.913,71.102v-0.855c0-5.222,2.005-10.301,5.766-13.924c5.085-4.898,8.249-11.776,8.249-19.395 c0-15.442-12.997-27.848-28.648-26.876c-13.923,0.865-25.029,12.574-25.208,26.522c-0.097,7.584,2.941,14.457,7.901,19.408 c3.815,3.809,6.113,8.873,6.113,14.264v0.854V75h25.827V71.102z M57.664,52.677c-0.783,0-1.417-0.635-1.417-1.417v-8.786 c0-3.694-0.618-4.284-2.604-4.284c-0.353,0-0.627,0.117-0.888,0.379c-1.093,1.098-1.336,3.923-1.338,4.889c0,0.017,0,0.032,0,0.049 c0,0.782-0.632,1.416-1.413,1.417c-0.001,0-0.003,0-0.004,0c-0.779,0-1.413-0.629-1.417-1.409c0-0.008,0-0.018,0-0.027 c-0.009-1.673-0.577-5.298-2.225-5.298c-1.954,0-2.604,0.619-2.604,4.284v8.786c0,0.782-0.634,1.417-1.417,1.417 s-1.417-0.635-1.417-1.417v-8.786c0-2.31,0-7.119,5.439-7.119c1.684,0,2.849,0.912,3.631,2.192c0.217-0.356,0.467-0.687,0.756-0.977 c0.79-0.795,1.792-1.215,2.898-1.215c5.439,0,5.439,4.808,5.439,7.119v8.786C59.082,52.042,58.447,52.677,57.664,52.677z"/><path style="fill:#f5e169" d="M48.645,90h2.709c6.384,0,11.559-5.175,11.559-11.559V75H37.087v3.441 C37.087,84.825,42.262,90,48.645,90z"/><metadata xmlns:d="https://loading.io/stock/"><d:name>light bulb</d:name><d:tags>light bulb,creativity,bright,smart,idea,lamp,flashlight,think,percent,ratio</d:tags><d:license>cc-by</d:license><d:slug>7l5a51</d:slug></metadata></g>
+  <g id="id-0.9513510417025322-2">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <g transform=" translate(151,149.9995) scale(0.6222222222222222)"><g class="ld ld-pulse" style="animation-delay:0s"><g data-icon="">  <use href="#id-0.9513510417025322" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.9628 0.2703 -0.2703 0.9628 41.3411 -58.0147) translate(231.293,121.08149999999999) scale(0.5214666666666667)"><g class="ld ld-pulse" style="animation-delay:-0.05s"><g data-icon="">  <use href="#id-0.9513510417025322" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(-0.0456 0.999 -0.999 -0.0456 207.6542 -74.2389) translate(139.293,62.081500000000005) scale(0.5214666666666667)"><g class="ld ld-pulse" style="animation-delay:-0.1s"><g data-icon="">  <use href="#id-0.9513510417025322" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.2398 -0.9708 0.9708 0.2398 127.6881 219.61) translate(204.074,28.271) scale(0.3916444444444444)"><g class="ld ld-pulse" style="animation-delay:-0.15s"><g data-icon="">  <use href="#id-0.9513510417025322" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.5905 -0.8071 0.8071 0.5905 -96.797 253.4085) translate(201.293,222.0815) scale(0.5214666666666667)"><g class="ld ld-pulse" style="animation-delay:-0.2s"><g data-icon="">  <use href="#id-0.9513510417025322" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.8618 0.5073 -0.5073 0.8618 120.0863 -26.4095) translate(108.50649999999999,207.1645) scale(0.44135555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.25s"><g data-icon="">  <use href="#id-0.9513510417025322" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.9981 0.0609 -0.0609 0.9981 7.8271 -4.6047) translate(79.461,126.11449999999999) scale(0.43675555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.3s"><g data-icon="">  <use href="#id-0.9513510417025322" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(-0.7024 0.7118 -0.7118 -0.7024 125.7862 11.6317) translate(60.461,32.1145) scale(0.43675555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.35s"><g data-icon="">  <use href="#id-0.9513510417025322" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.8596 0.511 -0.511 0.8596 47.5053 -5.4135) translate(33.602,83.7265) scale(0.3879111111111111)"><g class="ld ld-pulse" style="animation-delay:-0.4s"><g data-icon="">  <use href="#id-0.9513510417025322" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.5692 -0.8222 0.8222 0.5692 -149.2038 124.5031) translate(44.2025,204.6265) scale(0.5011777777777778)"><g class="ld ld-pulse" style="animation-delay:-0.45s"><g data-icon="">  <use href="#id-0.9513510417025322" x="-50" y="-50"/>
+</g></g></g>
+  </g>
+</defs>
+<g>
+  <use href="#id-0.9513510417025322-2" x="0" y="0"/>
+  <use href="#id-0.9513510417025322-2" x="-256" y="0"/>
+  <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s"
+  keyTimes="0;1" values="0;256"/>
+</g>
+</svg>

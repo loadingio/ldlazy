@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="256px" height="256px">
+<style type="text/css">@keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}</style>
+<rect x="0" y="0" width="256" height="256" fill="#eee"/>
+<defs>
+  <g id="id-0.9817548992287946"><!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><g><path style="fill:none;stroke:#e0e0e0;stroke-width:6;stroke-miterlimit:10" d="M50,30c-11.046,0-20,8.954-20,20 c0,11.046,8.954,20,20,20"/><path style="fill:none;stroke:#abbd81;stroke-width:6;stroke-linecap:round;stroke-miterlimit:10" d="M50,70 c11.046,0,20-8.954,20-20c0-11.046-8.954-20-20-20"/></g><g><path style="fill:none;stroke:#e0e0e0;stroke-width:6;stroke-miterlimit:10" d="M50,20c-16.569,0-30,13.431-30,30 c0,16.569,13.431,30,30,30c11.226,0,21.012-6.166,26.156-15.296"/><path style="fill:none;stroke:#f8b26a;stroke-width:6;stroke-linecap:round;stroke-miterlimit:10" d="M76.156,64.704 C78.603,60.359,80,55.342,80,50c0-16.569-13.431-30-30-30"/></g><g><path style="fill:none;stroke:#e0e0e0;stroke-width:6;stroke-miterlimit:10" d="M50,10c-22.091,0-40,17.909-40,40 c0,0.561,0.012,1.119,0.034,1.674"/><path style="fill:none;stroke:#e15b64;stroke-width:6;stroke-linecap:round;stroke-miterlimit:10" d="M10.034,51.674 C10.912,72.989,28.47,90,50,90c22.091,0,40-17.909,40-40S72.091,10,50,10"/></g><metadata xmlns:d="https://loading.io/stock/"><d:name>radial bar</d:name><d:tags>radial bar,circle,progress,process,ring,circular,curve,infographics</d:tags><d:license>cc-by</d:license><d:slug>5jtt18</d:slug></metadata></g>
+  <g id="id-0.9817548992287946-2">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+
+
+
+    <g transform=" translate(192,191.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:0s"><g data-icon="">  <use href="#id-0.9817548992287946" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,63.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:-0.25s"><g data-icon="">  <use href="#id-0.9817548992287946" x="-50" y="-50"/>
+</g></g></g>
+  </g>
+</defs>
+<g>
+  <use href="#id-0.9817548992287946-2" x="0" y="0"/>
+  <use href="#id-0.9817548992287946-2" x="-256" y="0"/>
+  <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s"
+  keyTimes="0;1" values="0;256"/>
+</g>
+</svg>

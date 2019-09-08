@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="64px" height="64px">
+  <style type="text/css">
+    @keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}
+    @keyframes ld-move {
+      0% { transform: translate(0,0) }
+      100% { transform: translate(256px,0) }
+    }
+  </style>
+  <defs><g id="id-0.08097366374696047">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+<path fill="#F5E169" d="M128,85.333C128,108.897,108.897,128,85.333,128l0,0C108.897,128,128,147.102,128,170.667l0,0
+	C128,147.102,147.103,128,170.667,128C147.103,128,128,108.897,128,85.333z"/>
+<path fill="#F5E169" d="M42.667,96c0,17.673-14.327,32-32,32l0,0c17.673,0,32,14.327,32,32l0,0c0-17.673,14.327-32,32-32
+	C56.994,128,42.667,113.673,42.667,96z"/>
+<path fill="#F5E169" d="M213.333,96c0,17.673-14.327,32-32,32l0,0c17.673,0,32,14.327,32,32l0,0c0-17.673,14.327-32,32-32
+	C227.66,128,213.333,113.673,213.333,96z"/>
+<path fill="#F5E169" d="M128,10.667c0,17.673-14.327,32-32,32l0,0c17.673,0,32,14.327,32,32l0,0c0-17.673,14.327-32,32-32
+	C142.327,42.667,128,28.34,128,10.667z"/>
+<path fill="#F5E169" d="M42.667,26.667c0,8.837-7.163,16-16,16l0,0c8.837,0,16,7.163,16,16l0,0c0-8.837,7.163-16,16-16
+	C49.83,42.667,42.667,35.503,42.667,26.667z"/>
+<path fill="#F5E169" d="M213.333,26.667c0,8.837-7.163,16-16,16l0,0c8.837,0,16,7.163,16,16l0,0c0-8.837,7.163-16,16-16
+	C220.497,42.667,213.333,35.503,213.333,26.667z"/>
+<path fill="#F5E169" d="M128,181.333c0,17.673-14.327,32-32,32l0,0c17.673,0,32,14.327,32,32l0,0c0-17.673,14.327-32,32-32
+	C142.327,213.333,128,199.006,128,181.333z"/>
+<path fill="#F5E169" d="M42.667,197.333c0,8.837-7.163,16-16,16l0,0c8.837,0,16,7.163,16,16l0,0c0-8.837,7.163-16,16-16
+	C49.83,213.333,42.667,206.17,42.667,197.333z"/>
+<path fill="#F5E169" d="M213.333,197.333c0,8.837-7.163,16-16,16l0,0c8.837,0,16,7.163,16,16l0,0c0-8.837,7.163-16,16-16
+	C220.497,213.333,213.333,206.17,213.333,197.333z"/>
+<polygon fill="#F5E169" points="127.996,245.333 128,245.333 128,245.333 "/>
+<polygon fill="#F5E169" points="128,245.333 128.004,245.333 128,245.333 "/>
+
+
+  </g></defs>
+  <rect fill="#6460AA" width="256" height="256"/>
+  <g>
+    <use href="#id-0.08097366374696047" x="-256" y="-256" blah="false"/><use href="#id-0.08097366374696047" x="0" y="-256" blah="false"/><use href="#id-0.08097366374696047" x="256" y="-256" blah="false"/><use href="#id-0.08097366374696047" x="-256" y="0" blah="false"/><use href="#id-0.08097366374696047" x="0" y="0" blah="false"/><use href="#id-0.08097366374696047" x="256" y="0" blah="false"/><use href="#id-0.08097366374696047" x="-256" y="256" blah="false"/><use href="#id-0.08097366374696047" x="0" y="256" blah="false"/><use href="#id-0.08097366374696047" x="256" y="256" blah="false"/>
+    <animateTransform attributeName="transform" type="translate"
+    dur="4s" repeatCount="indefinite" keyTimes="0;1" values="0;256"/>
+  </g>
+</svg>

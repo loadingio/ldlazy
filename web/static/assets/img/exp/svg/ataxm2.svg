@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="256px" height="256px">
+<style type="text/css">@keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}</style>
+<rect x="0" y="0" width="256" height="256" fill="#eee"/>
+<defs>
+  <g id="id-0.09214401800328287"><!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><path fill="#D3EDF9" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d=" M93.347,35.477c0-3.636-1.354-6.954-3.581-9.485c0.2-0.723,0.316-1.482,0.316-2.269c0-4.688-3.8-8.489-8.489-8.489 c-0.134,0-0.265,0.014-0.398,0.02c-1.922-3.062-4.708-5.631-8.22-7.288c-8.146-3.844-17.597-1.58-23.2,4.93 c-1.128-0.589-2.408-0.927-3.769-0.927c-4.35,0-7.895,3.406-8.139,7.696c-6.406,1.716-11.124,7.558-11.124,14.506 c0,7.217,5.091,13.242,11.876,14.687c0.964,7.913,7.701,14.044,15.875,14.044c4.567,0,8.683-1.916,11.598-4.985 c2.609,2.672,6.248,4.332,10.277,4.332c7.934,0,14.365-6.432,14.365-14.365c0-1.227-0.155-2.418-0.444-3.554 C92.203,41.889,93.347,38.817,93.347,35.477z"/><ellipse fill="#D3EDF9" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="9.789" cy="51.554" rx="3.135" ry="2.981"/><path fill="#D3EDF9" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d=" M20.51,37.964c1.54,1.464,1.54,3.838,0,5.302c-1.54,1.464-4.037,1.464-5.577,0c-1.54-1.464-1.54-3.838,0-5.302 S18.97,36.5,20.51,37.964z"/><g><rect x="47.992" y="19.902" fill="#CB9B0C" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="7.103" height="13.615"/><rect x="48.873" y="36.536" fill="#B3C37A" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="27.639" height="15.866"/><path fill="#DF565B" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d=" M62.692,20.593c5.786,5.314,11.572,10.628,17.358,15.943c-11.572,0-23.144,0-34.716,0C51.12,31.221,56.906,25.907,62.692,20.593z"/></g><g><path fill="#FCE9F2" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d=" M46.906,76.281c0-8.068-7.846-14.608-17.526-14.608c-7.301,0-13.557,3.722-16.192,9.014h-1.821c-1.315,0-2.381,1.048-2.381,2.342 v5.884c0,1.293,1.066,2.342,2.381,2.342H12.9c1.086,2.498,2.962,4.68,5.382,6.332l-1.165,4.228l8.001,2.097 c0.358-1.318,0.717-2.636,1.075-3.954c0.765,0.36,1.846,0.76,3.186,0.932c2.54,0.327,4.575-0.347,5.576-0.76l1.042,3.781 l8.001-2.097l-1.588-5.766C45.204,83.459,46.906,80.036,46.906,76.281z"/><path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d=" M34.363,67.496c-1.526-0.851-3.129-1.218-4.729-0.997c-0.316,0.043-0.625,0.109-0.928,0.195"/><path fill="#EF66B2" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d=" M22.085,60.248c-2.098-1.708-5.184-1.393-6.892,0.705l7.598,6.187C24.499,65.042,24.183,61.956,22.085,60.248z"/><ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -45.0164 34.992)" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="19.731" cy="71.836" rx="1.742" ry="1.742"/><path fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d=" M47.114,75.868c0.959-1.616,2.696-2.638,4.493-3.187c0.974-0.297,2.157-0.43,2.898,0.268c0.619,0.584,0.69,1.576,0.403,2.377 c-0.29,0.809-0.975,1.534-1.831,1.617c-0.767,0.075-1.526-0.395-1.918-1.059c-0.392-0.664-0.453-1.486-0.301-2.241 c0.322-1.598,1.613-2.959,3.191-3.365c0.504-0.13,1.103-0.124,1.552,0.097"/></g><metadata xmlns:d="https://loading.io/stock/"><d:name>loan</d:name><d:tags>loan, dream, blueprint, planning, saving,</d:tags><d:license>cc-by</d:license><d:slug>xzpig4</d:slug></metadata></g>
+  <g id="id-0.09214401800328287-2">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+
+
+
+    <g transform=" translate(192,191.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:0s"><g data-icon="">  <use href="#id-0.09214401800328287" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,63.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:-0.25s"><g data-icon="">  <use href="#id-0.09214401800328287" x="-50" y="-50"/>
+</g></g></g>
+  </g>
+</defs>
+<g>
+  <use href="#id-0.09214401800328287-2" x="0" y="0"/>
+  <use href="#id-0.09214401800328287-2" x="-256" y="0"/>
+  <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s"
+  keyTimes="0;1" values="0;256"/>
+</g>
+</svg>

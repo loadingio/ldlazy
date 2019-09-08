@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="256px" height="256px">
+<style type="text/css">@keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}</style>
+<rect x="0" y="0" width="256" height="256" fill="#eee"/>
+<defs>
+  <g id="id-0.625599682400237"><!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><g><g><rect x="60.2" y="16.3" transform="matrix(0.9055 -0.4244 0.4244 0.9055 -3.2179 28.6231)" style="fill:#93278f;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" width="4.8" height="10.5"/><rect x="66.6" y="16.3" transform="matrix(-0.9055 -0.4244 0.4244 -0.9055 122.3126 70.3113)" style="fill:#93278f;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" width="4.8" height="10.5"/><rect x="51.5" y="28.5" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 107.0526 -22.95)" style="fill:#d4145a;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" width="27" height="27"/><rect x="48.5" y="26.1" style="fill:#d4145a;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" width="34.1" height="5"/><rect x="62.7" y="26.6" style="fill:#d9e021;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" width="4.5" height="4.5"/><rect x="60.3" y="31.2" style="fill:#93278f;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" width="9.6" height="24.4"/></g><g><rect x="34.6" y="34.3" transform="matrix(0.7395 -0.6731 0.6731 0.7395 -16.433 34.6639)" style="fill:#39b54a;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" width="3.9" height="8.5"/><rect x="39.5" y="32.8" transform="matrix(-0.9905 -0.1376 0.1376 -0.9905 77.4052 79.466)" style="fill:#39b54a;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" width="3.9" height="8.5"/><rect x="32.4" y="42.9" transform="matrix(0.2957 0.9553 -0.9553 0.2957 81.8789 -3.4399)" style="fill:#fbb03b;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" width="21.8" height="21.8"/><rect x="26.4" y="41.5" transform="matrix(0.9553 -0.2957 0.2957 0.9553 -11.0856 13.8143)" style="fill:#f7931e;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" width="27.5" height="4.1"/><rect x="38.3" y="41.8" transform="matrix(0.9553 -0.2957 0.2957 0.9553 -11.1166 13.819)" style="fill:#d9e021;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" width="3.7" height="3.7"/><rect x="39.8" y="45" transform="matrix(0.9553 -0.2957 0.2957 0.9553 -14.2537 15.3457)" style="fill:#39b54a;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" width="7.7" height="19.7"/></g><g><path style="fill:#c69c6d;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" d=" M86.5,50.9c0-2.7-2.2-4.8-4.8-4.8h-0.2h-2.6H65.5c-7.8,0-14.1,6.3-14.1,14.1v0h-6.1c-0.9,0-1.6-0.7-1.6-1.6v0 c0-0.9-0.7-1.6-1.6-1.6H29.9c-1.8,0-3.2,1.4-3.2,3.2v7.9c0,2.9,2.3,5.2,5.2,5.2h3.3h8.5h7.7h5.5h19.3c2.9,0,5.2-2.3,5.2-5.2V50.9 L86.5,50.9L86.5,50.9z"/><rect x="37.2" y="73.3" style="fill:#c69c6d;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" width="5.5" height="5.5"/><rect x="69" y="73.3" style="fill:#c69c6d;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" width="5.5" height="5.5"/><path style="fill:#c69c6d;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" d=" M20.2,79.6L13.7,73c-1-0.5-2.1-0.1-2.8,0.8c-0.6,0.9-0.7,2.2-0.2,3.2c0.2,0.3,5.2,5.3,5.9,5.9c0.6,0.6,1.2,1.2,2.1,1.3 c1.1,0.1,2.2,0,3.2,0c2.1,0,4.3,0,6.4,0c4.3,0,8.6,0,12.9,0s8.6,0,12.9,0s8.6,0,12.9,0c4.3,0,8.6,0,12.9,0c2.5,0,5,0,7.5,0 c1.2,0.1,2.1-1,2.2-2.2c0-1.3-1-2.5-2.2-2.4C65,79.6,42.6,79.6,20.2,79.6z"/></g></g><metadata xmlns:d="https://loading.io/stock/"><d:name>sleigh</d:name><d:tags>sleigh,christmas</d:tags><d:license>cc-by</d:license><d:slug>fryz86</d:slug></metadata></g>
+  <g id="id-0.625599682400237-2">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+
+
+
+
+
+    <g transform=" translate(192,191.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:0s"><g data-icon="">  <use xlink:href="#id-0.625599682400237" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(192,63.9995) scale(0.5555555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.125s"><g data-icon="">  <use xlink:href="#id-0.625599682400237" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,63.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:-0.25s"><g data-icon="">  <use xlink:href="#id-0.625599682400237" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,191.9995) scale(0.5555555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.375s"><g data-icon="">  <use xlink:href="#id-0.625599682400237" x="-50" y="-50"/>
+</g></g></g>
+  </g>
+</defs>
+<g>
+  <use xlink:href="#id-0.625599682400237-2" x="0" y="0"/>
+  <use xlink:href="#id-0.625599682400237-2" x="-256" y="0"/>
+  <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s"
+  keyTimes="0;1" values="0;256"/>
+</g>
+</svg>

@@ -1,4 +1,4 @@
-# ldLazyShow
+# ldLazy
 
 Vanilla JS Lazy Show Library
 
@@ -6,7 +6,7 @@ Vanilla JS Lazy Show Library
 ## Usage
 
 `
-    ldlz = new ldLazyShow {root: document.body,  toggle: function(n) { ... } }
+    ldlz = new ldLazy {root: document.body,  toggle: function(n) { ... } }
     ldlz.add( ... );
 `
 

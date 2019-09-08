@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="256px" height="256px">
+<style type="text/css">@keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}</style>
+<rect x="0" y="0" width="256" height="256" fill="#eee"/>
+<defs>
+  <g id="id-0.3949623148932093"><!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><path style="fill:none" d="M79.338,45.275c0.886,1.535,1.612,3.117,2.207,4.725h5.333c-2.486-1.951-5.122-3.738-7.916-5.32 C79.085,44.882,79.219,45.07,79.338,45.275z"/><path style="fill:none" d="M50.257,37.166c-7.088,0-12.834,5.746-12.834,12.834H63.09C63.09,42.912,57.344,37.166,50.257,37.166z"/><path style="fill:#c8dc96" d="M10,47.403c0.084,0.874,0.216,1.739,0.374,2.597h2.75C12.056,49.163,11.007,48.304,10,47.403z"/><path style="fill:#e0e0e0" d="M50.257,37.166c7.088,0,12.834,5.746,12.834,12.834h18.455c-0.595-1.608-1.321-3.19-2.207-4.725 c-0.118-0.205-0.253-0.394-0.375-0.595c2.794,1.581,5.43,3.369,7.916,5.32h2.748c-2.079-11.274-10.411-20.921-22.222-24.086 c-0.233-0.062-0.466-0.1-0.698-0.157c4.426-1.226,8.922-1.954,13.414-2.206c-9.591-7.901-23.45-9.468-34.845-2.889 c-0.207,0.119-0.396,0.257-0.599,0.38c2.262-3.994,4.922-7.689,7.92-11.042c-12.368,1.195-23.277,9.886-26.682,22.596 c-0.058,0.217-0.106,0.434-0.16,0.651c-1.219-4.411-1.952-8.89-2.203-13.367c-6.837,8.299-8.919,19.792-5.097,30.12h18.968 C37.423,42.912,43.169,37.166,50.257,37.166z"/><path style="fill:#c8dc96" d="M20.662,54.724C19.776,53.19,19.05,51.608,18.455,50h-5.331c2.485,1.948,5.121,3.733,7.912,5.313 C20.915,55.114,20.78,54.928,20.662,54.724z"/><path style="fill:#c8dc96" d="M74.086,67.404c0.061-0.228,0.1-0.457,0.155-0.685c1.225,4.422,1.956,8.914,2.207,13.402 c6.837-8.299,8.919-19.792,5.097-30.12H63.09c0,7.088-5.746,12.834-12.834,12.834S37.423,57.088,37.423,50H18.455 c0.595,1.608,1.321,3.19,2.207,4.724c0.117,0.203,0.252,0.389,0.374,0.589c-2.791-1.58-5.427-3.365-7.912-5.313h-2.75 c2.079,11.274,10.411,20.921,22.222,24.086c0.23,0.062,0.46,0.099,0.69,0.155c-4.423,1.224-8.917,1.956-13.406,2.207 c9.591,7.901,23.45,9.468,34.845,2.889c0.208-0.12,0.399-0.257,0.603-0.381c-2.263,3.995-4.927,7.689-7.924,11.043 C59.772,88.805,70.68,80.113,74.086,67.404z"/><path style="fill:#c8dc96" d="M90,52.597c-0.084-0.874-0.216-1.739-0.374-2.597h-2.748C87.945,50.838,88.993,51.697,90,52.597z"/><metadata xmlns:d="https://loading.io/stock/"><d:name>typhoon</d:name><d:tags>typhoon,hurricane,wheel,whirl,tornado,vortex,spiral,saw,disk,rotate,percent,ratio</d:tags><d:license>cc-by</d:license><d:slug>pgv9up</d:slug></metadata></g>
+  <g id="id-0.3949623148932093-2">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+
+
+
+
+<ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -96.2592 93.9447)" fill="#B3B4B4" cx="69.5" cy="167.5" rx="5.5" ry="5.5"/>
+<ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 15.9378 184.9119)" fill="#B3B4B4" cx="239.5" cy="72.5" rx="5.5" ry="5.5"/>
+<g>
+	
+		<line fill="none" stroke="#B3B4B5" stroke-width="6.3333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="192" y1="125.5" x2="211" y2="125.5"/>
+	
+		<line fill="none" stroke="#B3B4B5" stroke-width="6.3333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="201.5" y1="135" x2="201.5" y2="116"/>
+</g>
+<g>
+	
+		<line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="186" y1="244" x2="198" y2="244"/>
+	
+		<line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="192" y1="250" x2="192" y2="238"/>
+</g>
+<g>
+	
+		<line fill="none" stroke="#B3B4B5" stroke-width="7.3333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="9.5" y1="46.5" x2="31.5" y2="46.5"/>
+	
+		<line fill="none" stroke="#B3B4B5" stroke-width="7.3333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="20.5" y1="57.5" x2="20.5" y2="35.5"/>
+</g>
+<ellipse transform="matrix(0.4903 -0.8715 0.8715 0.4903 7.2038 156.6452)" fill="#B3B4B4" cx="137.531" cy="72.163" rx="6.525" ry="6.525"/>
+<ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -109.6566 158.3945)" fill="#B3B4B4" cx="143.5" cy="216.5" rx="5.5" ry="5.5"/>
+<ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 0.2332 72.5839)" fill="#B3B4B4" cx="91" cy="36" rx="4" ry="4"/>
+<ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -34.1432 212.4976)" fill="#B3B4B4" cx="249" cy="149" rx="4" ry="4"/>
+<ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -163.3891 70.8358)" fill="#B3B4B4" cx="7" cy="240" rx="4" ry="4"/>
+
+
+    <g transform="matrix(0.9912 0.1325 -0.1325 0.9912 19.5946 -16.4002) translate(133,138.9995) scale(0.6222222222222222)"><g class="ld ld-pulse" style="animation-delay:0s"><g data-icon="">  <use href="#id-0.3949623148932093" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.8102 -0.5862 0.5862 0.8102 21.907 110.1873) translate(181.074,21.271) scale(0.3916444444444444)"><g class="ld ld-pulse" style="animation-delay:-0.1s"><g data-icon="">  <use href="#id-0.3949623148932093" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.7153 0.6988 -0.6988 0.7153 199.1367 -101.9661) translate(224.712,193.41799999999998) scale(0.3647555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.2s"><g data-icon="">  <use href="#id-0.3949623148932093" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.7812 0.6242 -0.6242 0.7812 76.8196 -5.7423) translate(46.602000000000004,106.7265) scale(0.3879111111111111)"><g class="ld ld-pulse" style="animation-delay:-0.3s"><g data-icon="">  <use href="#id-0.3949623148932093" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.7381 -0.6747 0.6747 0.7381 -136.8065 106.8361) translate(69.2025,229.6265) scale(0.5011777777777778)"><g class="ld ld-pulse" style="animation-delay:-0.4s"><g data-icon="">  <use href="#id-0.3949623148932093" x="-50" y="-50"/>
+</g></g></g>
+  </g>
+</defs>
+<g>
+  <use href="#id-0.3949623148932093-2" x="0" y="0"/>
+  <use href="#id-0.3949623148932093-2" x="-256" y="0"/>
+  <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s"
+  keyTimes="0;1" values="0;256"/>
+</g>
+</svg>

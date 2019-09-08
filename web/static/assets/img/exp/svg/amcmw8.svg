@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="102px" height="102px">
+  <style type="text/css">
+    @keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}
+    @keyframes ld-move {
+      0% { transform: translate(0,0) }
+      100% { transform: translate(256px,0) }
+    }
+  </style>
+  <defs><g id="id-0.4587479906304208">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -99.1967 237.0807)" fill="#FCB711" cx="236.583" cy="238.281" rx="9.898" ry="4.949"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -26.0702 46.0557)" fill="#F37021" cx="42.559" cy="54.497" rx="4.719" ry="9.439"/>
+<circle fill="#CC004C" cx="106.047" cy="54.497" r="9"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -79.5023 96.6481)" fill="#6460AA" cx="76.913" cy="144.292" rx="13.129" ry="6.565"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -145.0466 99.2614)" fill="#0089D0" cx="47.296" cy="224.717" rx="7.648" ry="15.296"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 40.7796 141.9879)" fill="#0DB14B" cx="191.784" cy="21.769" rx="12.943" ry="6.471"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -61.0538 142.0258)" fill="#FCB711" cx="140.913" cy="144.711" rx="6.818" ry="13.635"/>
+<circle fill="#F37021" cx="17.091" cy="116.101" r="8.489"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -51.3548 199.0671)" fill="#CC004C" cx="214.618" cy="161.524" rx="5.969" ry="11.938"/>
+<circle fill="#6460AA" cx="226.556" cy="95.765" r="9.76"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.6194 138.0595)" fill="#0089D0" cx="164.843" cy="73.399" rx="9.462" ry="4.731"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -99.7641 167.7101)" fill="#0DB14B" cx="152.562" cy="204.281" rx="12.281" ry="6.14"/>
+
+
+  </g></defs>
+  <rect fill="#F2F2F2" width="256" height="256"/>
+  <g>
+    <use href="#id-0.4587479906304208" x="-256" y="-256" blah="false"/><use href="#id-0.4587479906304208" x="0" y="-256" blah="false"/><use href="#id-0.4587479906304208" x="256" y="-256" blah="false"/><use href="#id-0.4587479906304208" x="-256" y="0" blah="false"/><use href="#id-0.4587479906304208" x="0" y="0" blah="false"/><use href="#id-0.4587479906304208" x="256" y="0" blah="false"/><use href="#id-0.4587479906304208" x="-256" y="256" blah="false"/><use href="#id-0.4587479906304208" x="0" y="256" blah="false"/><use href="#id-0.4587479906304208" x="256" y="256" blah="false"/>
+    <animateTransform attributeName="transform" type="translate"
+    dur="4s" repeatCount="indefinite" keyTimes="0;1" values="0;256"/>
+  </g>
+</svg>

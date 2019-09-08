@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="256px" height="256px">
+<style type="text/css">@keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}</style>
+<rect x="0" y="0" width="256" height="256" fill="#eee"/>
+<defs>
+  <g id="id-0.49922385977244543"><!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><path style="fill:#e0e0e0" d="M92.5,67.777v-3.376V18.525V15.53c0-1.95-1.586-3.53-3.542-3.53h-3.047H14.088h-3.047 C9.085,12,7.5,13.58,7.5,15.53v2.995v45.876v3.376c0,0.432,0.089,0.841,0.231,1.223h84.538C92.411,68.617,92.5,68.209,92.5,67.777z"/><path style="fill:#666" d="M70.405,84.791v-0.065c0-1.141-0.661-2.136-1.649-2.705c-0.547-0.315-1.192-0.504-1.888-0.504h-4.893 l-3.253-10.21h30.236c1.523,0,2.81-0.963,3.31-2.307H7.731c0.501,1.344,1.788,2.307,3.31,2.307H41.07l-3.346,10.21h-4.592 c-0.696,0-1.34,0.189-1.888,0.504c-0.988,0.569-1.649,1.564-1.649,2.705v0.065c0,1.772,1.583,3.209,3.537,3.209h33.736 C68.821,88,70.405,86.563,70.405,84.791z"/><metadata xmlns:d="https://loading.io/stock/"><d:name>computer</d:name><d:tags>computer,screen,monitor,desktop,lcd,viewport,percent,ratio</d:tags><d:license>cc-by</d:license><d:slug>s1opjs</d:slug></metadata></g>
+  <g id="id-0.49922385977244543-2">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+
+
+
+    <g transform=" translate(192,191.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:0s"><g data-icon="">  <use href="#id-0.49922385977244543" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,63.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:-0.25s"><g data-icon="">  <use href="#id-0.49922385977244543" x="-50" y="-50"/>
+</g></g></g>
+  </g>
+</defs>
+<g>
+  <use href="#id-0.49922385977244543-2" x="0" y="0"/>
+  <use href="#id-0.49922385977244543-2" x="-256" y="0"/>
+  <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s"
+  keyTimes="0;1" values="0;256"/>
+</g>
+</svg>

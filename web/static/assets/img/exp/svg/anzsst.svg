@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="256px" height="256px">
+<style type="text/css">@keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}</style>
+<rect x="0" y="0" width="256" height="256" fill="#eee"/>
+<defs>
+  <g id="id-0.027615643811734314"><!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><g><circle style="fill:#f2f2f2;stroke:#000;stroke-width:3;stroke-miterlimit:10" cx="50" cy="46.5" r="30.5"/><path style="fill:#f2f2f2;stroke:#000;stroke-width:3;stroke-miterlimit:10" d="M80.8,84c-20.5,0-41,0-61.5,0 c1.4-5,2.7-10,4.1-15h53.3C78,74,79.4,79,80.8,84z"/><circle style="fill:#f2f2f2;stroke:#000;stroke-width:3;stroke-miterlimit:10" cx="74.5" cy="40" r="3"/><ellipse transform="matrix(0.9862 -0.1656 0.1656 0.9862 -4.0917 10.9313)" style="fill:#f2f2f2;stroke:#000;stroke-width:3;stroke-miterlimit:10" cx="63.5" cy="30" rx="3" ry="3"/><circle style="fill:#f2f2f2;stroke:#000;stroke-width:3;stroke-miterlimit:10" cx="39.5" cy="25" r="3"/><circle style="fill:#f2f2f2;stroke:#000;stroke-width:3;stroke-miterlimit:10" cx="25.5" cy="45" r="3"/><circle style="fill:#f2f2f2;stroke:#000;stroke-width:3;stroke-miterlimit:10" cx="30.5" cy="58" r="3"/><ellipse transform="matrix(0.5948 -0.8038 0.8038 0.5948 -14.0335 80.1572)" style="fill:#f2f2f2;stroke:#000;stroke-width:3;stroke-miterlimit:10" cx="72.5" cy="54" rx="3" ry="3"/><g><g><g><g><path style="fill:#009245;stroke:#000;stroke-width:3;stroke-miterlimit:10" d="M31.3,61.4L65,61.3c0.9,0,1.3-1.1,0.7-1.7 l-17-16.8c-0.4-0.4-1-0.4-1.4,0l-16.8,17C29.9,60.4,30.4,61.4,31.3,61.4z"/></g><g><path style="fill:#009245;stroke:#000;stroke-width:3;stroke-miterlimit:10" d="M34.6,51.1l27.2-0.1c0.9,0,1.3-1.1,0.7-1.7 L48.8,35.7c-0.4-0.4-1-0.4-1.4,0L33.9,49.4C33.2,50,33.7,51.1,34.6,51.1z"/></g><path style="fill:#009245;stroke:#000;stroke-width:3;stroke-miterlimit:10" d="M38.4,41.2l19.3-0.1c0.9,0,1.3-1.1,0.7-1.7 l-9.7-9.6c-0.4-0.4-1-0.4-1.4,0l-9.6,9.7C37.1,40.1,37.5,41.2,38.4,41.2z"/><path style="fill:#603813;stroke:#000;stroke-width:3;stroke-miterlimit:10" d="M49.4,68H47c-1,0-1.8-0.8-1.8-1.8v-2.9 c0-1,0.8-1.8,1.8-1.8h2.4c1,0,1.8,0.8,1.8,1.8v2.9C51.2,67.2,50.4,68,49.4,68z"/></g><ellipse transform="matrix(0.946 -0.3243 0.3243 0.946 -9.0417 16.6493)" style="fill:#f7931e;stroke:#000;stroke-width:3;stroke-miterlimit:10" cx="45.4" cy="35.5" rx="1.9" ry="1.9"/><ellipse transform="matrix(7.812525e-02 -0.9969 0.9969 7.812525e-02 -10.8928 94.0929)" style="fill:#f7931e;stroke:#000;stroke-width:3;stroke-miterlimit:10" cx="45.4" cy="52.9" rx="1.9" ry="1.9"/><ellipse transform="matrix(0.946 -0.3243 0.3243 0.946 -12.6741 15.6157)" style="fill:#f7931e;stroke:#000;stroke-width:3;stroke-miterlimit:10" cx="40.5" cy="45.8" rx="1.9" ry="1.9"/><ellipse transform="matrix(0.8762 -0.482 0.482 0.8762 -24.0722 24.1933)" style="fill:#f7931e;stroke:#000;stroke-width:3;stroke-miterlimit:10" cx="35" cy="58.9" rx="1.9" ry="1.9"/><ellipse transform="matrix(0.9987 -5.021131e-02 5.021131e-02 0.9987 -2.8853 3.0414)" style="fill:#f7931e;stroke:#000;stroke-width:3;stroke-miterlimit:10" cx="59.1" cy="58.9" rx="1.9" ry="1.9"/><ellipse transform="matrix(0.3091 -0.951 0.951 0.3091 -4.3173 80.2598)" style="fill:#f7931e;stroke:#000;stroke-width:3;stroke-miterlimit:10" cx="53.1" cy="43.1" rx="1.9" ry="1.9"/></g><path style="fill:#fcee21;stroke:#000;stroke-width:3;stroke-miterlimit:10" d="M49.3,33.4l-1.1-3.1c-0.1-0.2-0.3-0.4-0.5-0.5 l-3.2-0.9c-0.6-0.2-0.8-0.9-0.3-1.3l2.6-2c0.2-0.1,0.3-0.4,0.3-0.6l-0.2-3.3c0-0.6,0.6-1,1.2-0.6l2.8,1.9c0.2,0.1,0.5,0.2,0.7,0.1 l3.1-1.1c0.6-0.2,1.2,0.3,1,0.9L54.6,26c-0.1,0.2,0,0.5,0.1,0.7l2.1,2.6c0.4,0.5,0.1,1.2-0.5,1.2l-3.3,0c-0.2,0-0.5,0.1-0.6,0.3 l-1.8,2.8C50.3,34.1,49.5,34,49.3,33.4z"/></g></g><metadata xmlns:d="https://loading.io/stock/"><d:name>gless ornaments</d:name><d:tags>gless ornaments,christmas</d:tags><d:license>cc-by</d:license><d:slug>crsoju</d:slug></metadata></g>
+  <g id="id-0.027615643811734314-2">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <g transform=" translate(151,149.9995) scale(0.6222222222222222)"><g class="ld ld-pulse" style="animation-delay:0s"><g data-icon="">  <use xlink:href="#id-0.027615643811734314" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.9628 0.2703 -0.2703 0.9628 41.3411 -58.0147) translate(231.293,121.08149999999999) scale(0.5214666666666667)"><g class="ld ld-pulse" style="animation-delay:-0.05s"><g data-icon="">  <use xlink:href="#id-0.027615643811734314" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(-0.0456 0.999 -0.999 -0.0456 207.6542 -74.2389) translate(139.293,62.081500000000005) scale(0.5214666666666667)"><g class="ld ld-pulse" style="animation-delay:-0.1s"><g data-icon="">  <use xlink:href="#id-0.027615643811734314" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.2398 -0.9708 0.9708 0.2398 127.6881 219.61) translate(204.074,28.271) scale(0.3916444444444444)"><g class="ld ld-pulse" style="animation-delay:-0.15s"><g data-icon="">  <use xlink:href="#id-0.027615643811734314" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.5905 -0.8071 0.8071 0.5905 -96.797 253.4085) translate(201.293,222.0815) scale(0.5214666666666667)"><g class="ld ld-pulse" style="animation-delay:-0.2s"><g data-icon="">  <use xlink:href="#id-0.027615643811734314" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.8618 0.5073 -0.5073 0.8618 120.0863 -26.4095) translate(108.50649999999999,207.1645) scale(0.44135555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.25s"><g data-icon="">  <use xlink:href="#id-0.027615643811734314" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.9981 0.0609 -0.0609 0.9981 7.8271 -4.6047) translate(79.461,126.11449999999999) scale(0.43675555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.3s"><g data-icon="">  <use xlink:href="#id-0.027615643811734314" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(-0.7024 0.7118 -0.7118 -0.7024 125.7862 11.6317) translate(60.461,32.1145) scale(0.43675555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.35s"><g data-icon="">  <use xlink:href="#id-0.027615643811734314" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.8596 0.511 -0.511 0.8596 47.5053 -5.4135) translate(33.602,83.7265) scale(0.3879111111111111)"><g class="ld ld-pulse" style="animation-delay:-0.4s"><g data-icon="">  <use xlink:href="#id-0.027615643811734314" x="-50" y="-50"/>
+</g></g></g><g transform="matrix(0.5692 -0.8222 0.8222 0.5692 -149.2038 124.5031) translate(44.2025,204.6265) scale(0.5011777777777778)"><g class="ld ld-pulse" style="animation-delay:-0.45s"><g data-icon="">  <use xlink:href="#id-0.027615643811734314" x="-50" y="-50"/>
+</g></g></g>
+  </g>
+</defs>
+<g>
+  <use xlink:href="#id-0.027615643811734314-2" x="0" y="0"/>
+  <use xlink:href="#id-0.027615643811734314-2" x="-256" y="0"/>
+  <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s"
+  keyTimes="0;1" values="0;256"/>
+</g>
+</svg>

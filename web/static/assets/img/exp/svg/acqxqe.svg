@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="256px" height="256px">
+<style type="text/css">@keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}</style>
+<rect x="0" y="0" width="256" height="256" fill="#eee"/>
+<defs>
+  <g id="id-0.6070704728225129"><!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><g><rect x="22.262" y="18.995" fill="#CCCCCC" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="62.871" height="50.543"/><path fill="#D3EDF9" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d=" M93.762,61.526c-20.135,0-40.27,0-60.405,0c-2.521-4.666-5.264-10.71-7.397-18.043c-2.793-9.604-3.585-18.129-3.698-24.487 c20.957,0,41.914,0,62.871,0c-0.598,5.388-0.888,13.597,1.233,23.198C88.226,50.615,91.286,57.146,93.762,61.526z"/><rect x="30.721" y="12.832" fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="8.53" height="14.793"/><rect x="49.213" y="12.832" fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="8.53" height="14.793"/><rect x="67.704" y="12.832" fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="8.53" height="14.793"/></g><g><path fill="#FCE9F2" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d=" M45.374,68.973c0-8.327-8.098-15.077-18.088-15.077c-7.535,0-13.992,3.842-16.711,9.303H8.695c-1.357,0-2.457,1.082-2.457,2.417 v6.073c0,1.335,1.1,2.417,2.457,2.417h1.582c1.12,2.578,3.058,4.83,5.554,6.535l-1.202,4.364l8.258,2.164 c0.37-1.36,0.74-2.721,1.11-4.081c0.79,0.372,1.905,0.784,3.289,0.962c2.621,0.338,4.722-0.358,5.755-0.784l1.075,3.903 l8.258-2.164l-1.639-5.951C43.617,76.382,45.374,72.849,45.374,68.973z"/><path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d=" M32.428,59.907c-1.575-0.878-3.229-1.257-4.881-1.029c-0.326,0.045-0.645,0.112-0.958,0.202"/><path fill="#EF66B2" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d=" M19.756,52.425c-2.165-1.763-5.35-1.437-7.113,0.728l7.841,6.385C22.247,57.373,21.921,54.189,19.756,52.425z"/><ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -40.4524 31.1098)" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="17.327" cy="64.385" rx="1.798" ry="1.798"/><path fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d=" M40.983,59.161c0.167-1.932,1.323-3.662,2.747-4.978c0.772-0.713,1.812-1.367,2.814-1.05c0.837,0.265,1.348,1.156,1.441,2.029 c0.094,0.882-0.219,1.863-0.976,2.324c-0.68,0.414-1.595,0.317-2.257-0.124c-0.662-0.441-1.087-1.178-1.285-1.949 c-0.418-1.629,0.172-3.474,1.457-4.559c0.41-0.347,0.969-0.61,1.486-0.606"/></g><rect x="55.832" y="35.222" fill="#B3B3B3" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15.124" height="13.609"/><path fill="none" stroke="#ED1C24" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d=" M61.436,37.132c1.364,1.834,2.728,3.667,4.091,5.501c2.102-2.522,4.458-4.791,7.011-6.755c0.092-0.071,0.168-0.166,0.219-0.275"/><metadata xmlns:d="https://loading.io/stock/"><d:name>calendar</d:name><d:tags>calendar, goal, dream, achieve, attain,</d:tags><d:license>cc-by</d:license><d:slug>wrnhhl</d:slug></metadata></g>
+  <g id="id-0.6070704728225129-2">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+
+
+
+
+
+    <g transform=" translate(192,191.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:0s"><g data-icon="">  <use href="#id-0.6070704728225129" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(192,63.9995) scale(0.5555555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.125s"><g data-icon="">  <use href="#id-0.6070704728225129" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,63.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:-0.25s"><g data-icon="">  <use href="#id-0.6070704728225129" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,191.9995) scale(0.5555555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.375s"><g data-icon="">  <use href="#id-0.6070704728225129" x="-50" y="-50"/>
+</g></g></g>
+  </g>
+</defs>
+<g>
+  <use href="#id-0.6070704728225129-2" x="0" y="0"/>
+  <use href="#id-0.6070704728225129-2" x="-256" y="0"/>
+  <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s"
+  keyTimes="0;1" values="0;256"/>
+</g>
+</svg>

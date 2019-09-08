@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="256px" height="256px">
+<style type="text/css">@keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}</style>
+<rect x="0" y="0" width="256" height="256" fill="#eee"/>
+<defs>
+  <g id="id-0.16816487014877457"><!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><g><ellipse transform="matrix(0.866 -0.5 0.5 0.866 -30.3332 34.9227)" style="fill:#333" cx="50" cy="74.1" rx="14.3" ry="9.5"/></g><line style="fill:none;stroke:#333;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10" x1="61.7" y1="68.7" x2="61.7" y2="15"/><line style="fill:none;stroke:#333;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10" x1="26.8" y1="64.1" x2="73.2" y2="64.1"/><line style="fill:none;stroke:#333;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10" x1="26.8" y1="49.1" x2="73.2" y2="49.1"/><metadata xmlns:d="https://loading.io/stock/"><d:name>note</d:name><d:tags>note,quarter,crotchet</d:tags><d:license>cc-by</d:license><d:slug>63u5lg</d:slug></metadata></g>
+  <g id="id-0.16816487014877457-2">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+
+
+
+    <g transform=" translate(192,191.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:0s"><g data-icon="">  <use href="#id-0.16816487014877457" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,63.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:-0.25s"><g data-icon="">  <use href="#id-0.16816487014877457" x="-50" y="-50"/>
+</g></g></g>
+  </g>
+</defs>
+<g>
+  <use href="#id-0.16816487014877457-2" x="0" y="0"/>
+  <use href="#id-0.16816487014877457-2" x="-256" y="0"/>
+  <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s"
+  keyTimes="0;1" values="0;256"/>
+</g>
+</svg>

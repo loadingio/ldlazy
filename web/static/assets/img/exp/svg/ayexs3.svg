@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="256px" height="256px">
+<style type="text/css">@keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}</style>
+<rect x="0" y="0" width="256" height="256" fill="#eee"/>
+<defs>
+  <g id="id-0.6396839274705628"><!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><path style="fill:none;stroke:#abbd81;stroke-width:6;stroke-linecap:round;stroke-miterlimit:10" d="M49.996,70.009 c11.05,0,20.008-8.958,20.008-20.009c0-11.05-8.958-20.009-20.008-20.009"/><path style="fill:none;stroke:#f8b26a;stroke-width:6;stroke-linecap:round;stroke-miterlimit:10" d="M76.162,64.71 c2.449-4.347,3.846-9.365,3.846-14.71c0-16.576-13.437-30.013-30.013-30.013"/><path style="fill:none;stroke:#e15b64;stroke-width:6;stroke-linecap:round;stroke-miterlimit:10" d="M10.013,51.675 c0.878,21.324,18.443,38.342,39.983,38.342c22.101,0,40.017-17.916,40.017-40.017S72.096,9.983,49.996,9.983"/><metadata xmlns:d="https://loading.io/stock/"><d:name>radial bar</d:name><d:tags>radial bar,circle,progress,process,ring,circular,curve,infographics</d:tags><d:license>cc-by</d:license><d:slug>8j4hh7</d:slug></metadata></g>
+  <g id="id-0.6396839274705628-2">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+
+
+
+    <g transform=" translate(192,191.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:0s"><g data-icon="">  <use href="#id-0.6396839274705628" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,63.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:-0.25s"><g data-icon="">  <use href="#id-0.6396839274705628" x="-50" y="-50"/>
+</g></g></g>
+  </g>
+</defs>
+<g>
+  <use href="#id-0.6396839274705628-2" x="0" y="0"/>
+  <use href="#id-0.6396839274705628-2" x="-256" y="0"/>
+  <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s"
+  keyTimes="0;1" values="0;256"/>
+</g>
+</svg>

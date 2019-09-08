@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="256px" height="256px">
+<style type="text/css">@keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}</style>
+<rect x="0" y="0" width="256" height="256" fill="#eee"/>
+<defs>
+  <g id="id-0.2223015546626128"><!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><circle fill="#F8EAA3" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="50.437" cy="31.532" r="7.157"/><g><path fill="#FCE9F2" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d=" M75.683,62.176c0-14.226-11.532-25.758-25.758-25.758S24.167,47.95,24.167,62.176c0,6.594,2.481,12.606,6.556,17.163l-2.748,11.98 l9.442,2.166l1.807-7.879c3.26,1.492,6.882,2.329,10.701,2.329s7.441-0.838,10.701-2.329l1.807,7.879l9.442-2.166l-2.748-11.98 C73.202,74.783,75.683,68.77,75.683,62.176z"/><path fill="#EF66B2" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d=" M71.45,37.215c-4.733-1.226-9.564,1.618-10.79,6.352l17.141,4.438C79.028,43.271,76.184,38.44,71.45,37.215z"/><path fill="#EF66B2" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d=" M28.55,37.215c4.733-1.226,9.564,1.618,10.79,6.352l-17.141,4.438C20.972,43.271,23.816,38.44,28.55,37.215z"/><ellipse fill="#EF66B2" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="49.925" cy="67.46" rx="14.53" ry="6.164"/><ellipse transform="matrix(0.1618 -0.9868 0.9868 0.1618 -4.3993 105.7929)" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="60.076" cy="55.486" rx="3.149" ry="3.149"/><ellipse transform="matrix(0.1618 -0.9868 0.9868 0.1618 -22.1147 84.9364)" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="38.941" cy="55.486" rx="3.149" ry="3.149"/><rect x="53.447" y="64.818" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="4.403" height="4.403"/><rect x="41.999" y="64.818" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="4.403" height="4.403"/></g><g><circle fill="#F8EAA3" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="66.885" cy="16.365" r="9.85"/><g><path fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d=" M63.495,19.225c0.235,1.217,1.663,2.153,3.39,2.153c1.891,0,3.424-1.122,3.424-2.506s-1.533-2.506-3.424-2.506 c-1.891,0-3.424-1.122-3.424-2.506s1.533-2.506,3.424-2.506c1.891,0,3.424,1.122,3.424,2.506"/><line fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="66.989" y1="21.365" x2="66.989" y2="23.615"/><line fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="66.989" y1="9.115" x2="66.989" y2="11.224"/></g></g><metadata xmlns:d="https://loading.io/stock/"><d:name>moneybox</d:name><d:tags>moneybox, porcelain, cute, piggy bank, coin bank, deposit box</d:tags><d:license>cc-by</d:license><d:slug>xhc5cp</d:slug></metadata></g>
+  <g id="id-0.2223015546626128-2">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+
+
+
+
+
+    <g transform=" translate(192,191.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:0s"><g data-icon="">  <use href="#id-0.2223015546626128" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(192,63.9995) scale(0.5555555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.125s"><g data-icon="">  <use href="#id-0.2223015546626128" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,63.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:-0.25s"><g data-icon="">  <use href="#id-0.2223015546626128" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,191.9995) scale(0.5555555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.375s"><g data-icon="">  <use href="#id-0.2223015546626128" x="-50" y="-50"/>
+</g></g></g>
+  </g>
+</defs>
+<g>
+  <use href="#id-0.2223015546626128-2" x="0" y="0"/>
+  <use href="#id-0.2223015546626128-2" x="-256" y="0"/>
+  <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s"
+  keyTimes="0;1" values="0;256"/>
+</g>
+</svg>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="256px" height="256px">
+<style type="text/css">@keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}</style>
+<rect x="0" y="0" width="256" height="256" fill="#eee"/>
+<defs>
+  <g id="id-0.2763283652337747"><!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><g><polygon style="fill:#333;stroke:#333;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" points=" 28.6,41.5 86.6,41.8 86.6,39.8 28.6,39.5 	"/><polygon style="fill:#333;stroke:#333;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" points=" 28.6,49.5 86.6,49.8 86.6,47.8 28.6,47.5 	"/><polygon style="fill:#333;stroke:#333;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" points=" 28.6,57.5 86.6,57.8 86.6,55.8 28.6,55.5 	"/></g><g><ellipse transform="matrix(0.866 -0.5 0.5 0.866 -36 20.2514)" style="fill:#333" cx="19.8" cy="77.3" rx="10.8" ry="7.2"/><line style="fill:none;stroke:#333;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10" x1="28.6" y1="73.3" x2="28.6" y2="39.8"/></g><g><ellipse transform="matrix(0.866 -0.5 0.5 0.866 -32.1948 34.7679)" style="fill:#333" cx="48.8" cy="77.5" rx="10.8" ry="7.2"/><line style="fill:none;stroke:#333;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10" x1="57.6" y1="73.4" x2="57.6" y2="40"/></g><g><ellipse transform="matrix(0.866 -0.5 0.5 0.866 -28.2205 49.2391)" style="fill:#333" cx="77.8" cy="77.3" rx="10.8" ry="7.2"/><line style="fill:none;stroke:#333;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10" x1="86.6" y1="73.2" x2="86.6" y2="39.8"/></g><g><g><path style="fill:#333" d="M28.6,33.5c4-3.3,8.6-5.9,13.5-7.7C47,24,52.3,23,57.6,23c5.3,0,10.6,1,15.5,2.8 c4.9,1.8,9.5,4.4,13.5,7.7c-4.8-1.8-9.6-3.5-14.4-4.7c-4.8-1.2-9.7-1.8-14.6-1.8c-4.9,0-9.8,0.6-14.6,1.8 C38.2,29.9,33.4,31.7,28.6,33.5z"/></g><path d="M59.1,12.1c2.1,0.6,3.2,1.6,3.2,3.1c0,1-0.5,1.7-1.4,2.3c-0.9,0.6-2,0.9-3.3,0.9c-1,0-1.8-0.2-2.4-0.5 c-0.6-0.3-1-0.8-1-1.3c0-0.3,0.1-0.5,0.4-0.7c0.3-0.2,0.6-0.3,1-0.3c0.4,0,0.7,0.1,0.9,0.2c0.2,0.2,0.4,0.4,0.4,0.6 c0,0.3-0.1,0.5-0.4,0.7c-0.1,0.1-0.1,0.1-0.1,0.1c0,0.1,0.1,0.2,0.3,0.2s0.5,0.1,0.8,0.1c1.5,0,2.2-0.8,2.2-2.5 c0-0.6-0.1-1.1-0.3-1.5S59,13,58.7,12.8s-0.7-0.2-1.2-0.3c-0.3,0-0.4-0.1-0.4-0.2v-0.5c0-0.1,0.1-0.2,0.4-0.2c1.3-0.1,2-0.8,2-2.2 c0-1.2-0.6-1.8-1.7-1.8c-0.3,0-0.5,0-0.8,0.1S56.7,7.9,56.7,8c0,0.1,0.1,0.1,0.2,0.2c0.2,0.1,0.2,0.3,0.2,0.5 c0,0.2-0.1,0.4-0.4,0.5c-0.2,0.2-0.5,0.2-0.8,0.2c-0.4,0-0.7-0.1-0.9-0.3s-0.3-0.4-0.3-0.6c0-0.4,0.3-0.8,1-1.2s1.5-0.5,2.3-0.5 c1.1,0,2.1,0.2,2.8,0.7c0.7,0.5,1.1,1.1,1.1,1.8C61.9,10.5,61,11.4,59.1,12.1z"/></g><metadata xmlns:d="https://loading.io/stock/"><d:name>triplet node</d:name><d:tags>triplet node,beamed note,thirty-second,demisemiquaver</d:tags><d:license>cc-by</d:license><d:slug>utdtxd</d:slug></metadata></g>
+  <g id="id-0.2763283652337747-2">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+
+
+
+
+
+    <g transform=" translate(192,191.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:0s"><g data-icon="">  <use href="#id-0.2763283652337747" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(192,63.9995) scale(0.5555555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.125s"><g data-icon="">  <use href="#id-0.2763283652337747" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,63.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:-0.25s"><g data-icon="">  <use href="#id-0.2763283652337747" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,191.9995) scale(0.5555555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.375s"><g data-icon="">  <use href="#id-0.2763283652337747" x="-50" y="-50"/>
+</g></g></g>
+  </g>
+</defs>
+<g>
+  <use href="#id-0.2763283652337747-2" x="0" y="0"/>
+  <use href="#id-0.2763283652337747-2" x="-256" y="0"/>
+  <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s"
+  keyTimes="0;1" values="0;256"/>
+</g>
+</svg>

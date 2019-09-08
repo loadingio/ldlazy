@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="256px" height="256px">
+<style type="text/css">@keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}</style>
+<rect x="0" y="0" width="256" height="256" fill="#eee"/>
+<defs>
+  <g id="id-0.2945354731203311"><!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><path style="fill:#009245;stroke:#000;stroke-width:3;stroke-miterlimit:10" d="M89,49.5c0-3.9-1.9-7.4-4.9-9.6c0,0,0,0,0,0 c1.3-3.3,1.2-7.1-0.7-10.4c-2-3.4-5.4-5.5-9.1-5.8c-0.5-3.5-2.5-6.7-5.8-8.6c-3.4-2-7.4-2-10.8-0.5c-2.2-2.8-5.5-4.6-9.3-4.6 c-3.9,0-7.4,1.9-9.6,4.9c0,0,0,0,0,0c-3.3-1.3-7.1-1.2-10.4,0.7c-3.4,2-5.5,5.4-5.8,9.1c-3.5,0.5-6.7,2.5-8.6,5.8 c-2,3.4-2,7.4-0.5,10.8C10.8,43.4,9,46.7,9,50.5c0,3.9,1.9,7.4,4.9,9.6c0,0,0,0,0,0c-1.3,3.3-1.2,7.1,0.7,10.4 c2,3.4,5.4,5.5,9.1,5.8c0.5,3.5,2.5,6.7,5.8,8.6c3.4,2,7.4,2,10.8,0.5c2.2,2.8,5.5,4.6,9.3,4.6c3.9,0,7.4-1.9,9.6-4.9c0,0,0,0,0,0 c3.3,1.3,7.1,1.2,10.4-0.7c3.4-2,5.5-5.4,5.8-9.1c3.5-0.5,6.7-2.5,8.6-5.8c2-3.4,2-7.4,0.5-10.8C87.2,56.6,89,53.3,89,49.5z M46.1,62.3c-1.5-1.6-3.5-2.7-5.6-3.1c-0.5-2.2-1.7-4.1-3.3-5.5c0.7-2.1,0.6-4.4-0.2-6.4c1.6-1.5,2.7-3.5,3.1-5.6 c2.2-0.5,4.1-1.7,5.5-3.3c2.1,0.7,4.4,0.6,6.4-0.2c1.5,1.6,3.5,2.7,5.6,3.1c0.5,2.2,1.7,4.1,3.3,5.5c-0.7,2.1-0.6,4.4,0.2,6.4 c-1.6,1.5-2.7,3.5-3.1,5.6c-2.2,0.5-4.1,1.7-5.5,3.3C50.4,61.4,48.2,61.5,46.1,62.3z"/><g><g><path style="fill:#d4145a;stroke:#000;stroke-width:3;stroke-miterlimit:10" d="M63.7,12.4c-7.4,0-13.3,5.2-13.3,11.6 c0,0.1,0,0.2,0,0.2c0.1-3.2,3.2-5.8,6.9-5.8c3.8,0,6.9,2.7,6.9,6s-3.1,6-6.9,6c-3.3,0-6-2-6.8-4.7c1,5.5,6.5,9.7,13.1,9.7 C71.1,35.6,77,30.4,77,24C77,17.6,71.1,12.4,63.7,12.4z"/><path style="fill:#d4145a;stroke:#000;stroke-width:3;stroke-miterlimit:10" d="M36.9,12.4c-7.4,0-13.3,5.2-13.3,11.6 c0,6.4,6,11.6,13.3,11.6c6.6,0,12.1-4.2,13.1-9.7c-0.7,2.7-3.5,4.7-6.8,4.7c-3.8,0-6.9-2.7-6.9-6s3.1-6,6.9-6 c3.7,0,6.8,2.6,6.9,5.8c0-0.1,0-0.2,0-0.2C50.3,17.6,44.3,12.4,36.9,12.4z"/></g><path style="fill:#d4145a;stroke:#000;stroke-width:3;stroke-miterlimit:10" d="M43,47.8L43,47.8c1.8,0.4,3.5-0.9,3.5-2.7 c0.1-3.5,0.6-7.6,1.7-12c0.8-3.4,1.8-6.4,2.9-9c0.7-1.7-0.3-3.5-2.1-3.9l0,0c-1.4-0.3-2.8,0.5-3.3,1.8c-1.1,3-2.2,6.5-3.1,10.3 c-1.1,4.6-1.6,8.8-1.8,12.5C40.7,46.2,41.6,47.5,43,47.8z"/><path style="fill:#d4145a;stroke:#000;stroke-width:3;stroke-miterlimit:10" d="M55.3,47.8L55.3,47.8c-1.8,0.4-3.5-0.9-3.5-2.7 c-0.1-3.5-0.6-7.6-1.7-12c-0.8-3.4-1.8-6.4-2.9-9c-0.7-1.7,0.3-3.5,2.1-3.9l0,0c1.4-0.3,2.8,0.5,3.3,1.8c1.1,3,2.2,6.5,3.1,10.3 c1.1,4.6,1.6,8.8,1.8,12.5C57.7,46.2,56.7,47.5,55.3,47.8z"/></g><circle style="fill:#fcee21;stroke:#000;stroke-width:3;stroke-miterlimit:10" cx="74.2" cy="42.6" r="5.2"/><circle style="fill:#fcee21;stroke:#000;stroke-width:3;stroke-miterlimit:10" cx="88.1" cy="51.2" r="5.2"/><circle style="fill:#fcee21;stroke:#000;stroke-width:3;stroke-miterlimit:10" cx="11.9" cy="50.3" r="5.2"/><circle style="fill:#fcee21;stroke:#000;stroke-width:3;stroke-miterlimit:10" cx="27.8" cy="80.1" r="5.2"/><circle style="fill:#fcee21;stroke:#000;stroke-width:3;stroke-miterlimit:10" cx="71" cy="78.6" r="5.2"/><ellipse transform="matrix(0.6752 -0.7376 0.7376 0.6752 -18.9013 75.604)" style="fill:#f7931e;stroke:#000;stroke-width:3;stroke-miterlimit:10" cx="76.4" cy="59.3" rx="3.4" ry="3.4"/><ellipse transform="matrix(0.6752 -0.7376 0.7376 0.6752 -41.1188 59.3118)" style="fill:#f7931e;stroke:#000;stroke-width:3;stroke-miterlimit:10" cx="46.8" cy="76.3" rx="3.4" ry="3.4"/><ellipse transform="matrix(0.6752 -0.7376 0.7376 0.6752 -22.6763 35.1446)" style="fill:#f7931e;stroke:#000;stroke-width:3;stroke-miterlimit:10" cx="28.6" cy="43.3" rx="3.4" ry="3.4"/><ellipse transform="matrix(0.6752 -0.7376 0.7376 0.6752 -38.4363 38.0726)" style="fill:#f7931e;stroke:#000;stroke-width:3;stroke-miterlimit:10" cx="24" cy="62.7" rx="3.4" ry="3.4"/><metadata xmlns:d="https://loading.io/stock/"><d:name>christmas wreath</d:name><d:tags>christmas wreath, decoration, ornament, festival , party</d:tags><d:license>cc-by</d:license><d:slug>kwsrf5</d:slug></metadata></g>
+  <g id="id-0.2945354731203311-2">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+
+
+
+    <g transform=" translate(192,191.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:0s"><g data-icon="">  <use href="#id-0.2945354731203311" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,63.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:-0.25s"><g data-icon="">  <use href="#id-0.2945354731203311" x="-50" y="-50"/>
+</g></g></g>
+  </g>
+</defs>
+<g>
+  <use href="#id-0.2945354731203311-2" x="0" y="0"/>
+  <use href="#id-0.2945354731203311-2" x="-256" y="0"/>
+  <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s"
+  keyTimes="0;1" values="0;256"/>
+</g>
+</svg>

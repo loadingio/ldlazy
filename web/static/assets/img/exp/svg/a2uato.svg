@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="256px" height="256px">
+<style type="text/css">@keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}</style>
+<rect x="0" y="0" width="256" height="256" fill="#eee"/>
+<defs>
+  <g id="id-0.5963510119408999"><!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><path style="fill:none" d="M49.181,75h1.638C50.287,74.805,49.713,74.805,49.181,75z"/><path style="fill:#e0e0e0" d="M50.819,75h21.755l-2.361-13.764c-0.133-0.777,0.124-1.57,0.689-2.12l15.623-15.228 c1.422-1.386,0.637-3.8-1.328-4.086l-21.59-3.137c-0.78-0.113-1.455-0.603-1.804-1.31l-9.655-19.564c-0.879-1.78-3.417-1.78-4.296,0 l-9.655,19.564c-0.349,0.707-1.023,1.197-1.804,1.31l-21.59,3.137c-1.965,0.286-2.749,2.7-1.328,4.086l15.623,15.228 c0.565,0.55,0.822,1.343,0.689,2.12L27.426,75h21.755C49.713,74.805,50.287,74.805,50.819,75z"/><g><path style="fill:#f5e169" d="M51.115,75.112l19.311,10.152c1.757,0.924,3.811-0.568,3.476-2.525L72.574,75H50.819 C50.918,75.036,51.02,75.062,51.115,75.112z"/><path style="fill:#f5e169" d="M29.575,85.264l19.311-10.152c0.095-0.05,0.197-0.076,0.296-0.112H27.426l-1.327,7.739 C25.763,84.696,27.817,86.188,29.575,85.264z"/></g><metadata xmlns:d="https://loading.io/stock/"><d:name>star</d:name><d:tags>star,favorite,bookmark,asteriod,rank,review,tag,percent,ratio</d:tags><d:license>cc-by</d:license><d:slug>l4fj16</d:slug></metadata></g>
+  <g id="id-0.5963510119408999-2">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+
+
+
+
+
+    <g transform=" translate(192,191.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:0s"><g data-icon="">  <use href="#id-0.5963510119408999" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(192,63.9995) scale(0.5555555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.125s"><g data-icon="">  <use href="#id-0.5963510119408999" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,63.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:-0.25s"><g data-icon="">  <use href="#id-0.5963510119408999" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,191.9995) scale(0.5555555555555556)"><g class="ld ld-pulse" style="animation-delay:-0.375s"><g data-icon="">  <use href="#id-0.5963510119408999" x="-50" y="-50"/>
+</g></g></g>
+  </g>
+</defs>
+<g>
+  <use href="#id-0.5963510119408999-2" x="0" y="0"/>
+  <use href="#id-0.5963510119408999-2" x="-256" y="0"/>
+  <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s"
+  keyTimes="0;1" values="0;256"/>
+</g>
+</svg>

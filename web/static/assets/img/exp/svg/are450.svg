@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="256px" height="256px">
+<style type="text/css">@keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}</style>
+<rect x="0" y="0" width="256" height="256" fill="#eee"/>
+<defs>
+  <g id="id-0.108500703498289"><!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><path style="fill:#77a4bd" d="M67.73,27.463l-2.574-3.787c-1.799-2.647-2.761-5.774-2.761-8.974V10H50H37.63v4.685 c0,3.212-0.967,6.349-2.775,9.003l-3.197,4.691c-2.629,3.859-4.035,8.42-4.035,13.09v41.287c0,4.001,3.244,7.245,7.245,7.245H50 h15.133c4.001,0,7.245-3.244,7.245-7.245V42.569C72.378,37.182,70.758,31.919,67.73,27.463z"/><path style="fill:#fff" d="M64.422,29.711l-2.574-3.787c-2.259-3.323-3.452-7.204-3.452-11.222V14H50h-8.37v0.685 c0,4.031-1.2,7.923-3.47,11.255L35.393,30h29.21C64.54,29.905,64.486,29.806,64.422,29.711z"/><path style="fill:#77a4bd" d="M31.622,41.468v41.287c0,1.789,1.456,3.245,3.245,3.245H50h15.133c1.789,0,3.245-1.456,3.245-3.245 V42.569c0-4.49-1.31-8.825-3.775-12.569h-29.21l-0.43,0.631C32.778,33.839,31.622,37.586,31.622,41.468z"/><metadata xmlns:d="https://loading.io/stock/"><d:name>bottle</d:name><d:tags>bottle,milk,drink,water,alcohol,pop,grass,cup,container,beverages,percent,ratio</d:tags><d:license>cc-by</d:license><d:slug>njub1u</d:slug></metadata></g>
+  <g id="id-0.108500703498289-2">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+
+
+
+    <g transform=" translate(192,191.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:0s"><g data-icon="">  <use xlink:href="#id-0.108500703498289" x="-50" y="-50"/>
+</g></g></g><g transform=" translate(64,63.9995) scale(0.8888888888888888)"><g class="ld ld-pulse" style="animation-delay:-0.25s"><g data-icon="">  <use xlink:href="#id-0.108500703498289" x="-50" y="-50"/>
+</g></g></g>
+  </g>
+</defs>
+<g>
+  <use xlink:href="#id-0.108500703498289-2" x="0" y="0"/>
+  <use xlink:href="#id-0.108500703498289-2" x="-256" y="0"/>
+  <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s"
+  keyTimes="0;1" values="0;256"/>
+</g>
+</svg>
