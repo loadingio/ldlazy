@@ -75,7 +75,7 @@
     handle: function(l){
       var this$ = this;
       l.map(function(n){
-        var o, that;
+        var o;
         o = n._lzs;
         if (!o.changed) {
           return;
@@ -83,8 +83,12 @@
           o.changed = false;
         }
         if (o.visible) {
-          if (that = o.src) {
-            n.style.backgroundImage = "url(" + that + ")";
+          if (o.src) {
+            if (n.nodeName === 'IMG') {
+              n.setAttribute('src', o.src);
+            } else {
+              n.style.backgroundImage = "url(" + o.src + ")";
+            }
             delete o.src;
           }
           n.style.opacity = 1;

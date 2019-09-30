@@ -41,7 +41,8 @@
         if !o.changed => return else o.changed = false
         if o.visible =>
           if o.src =>
-            n.style.backgroundImage = "url(#{that})"
+            if n.nodeName == \IMG => n.setAttribute \src, o.src
+            else n.style.backgroundImage = "url(#{o.src})"
             delete o.src
           n.style.opacity = 1
           n.style.visibility = \visible
