@@ -32,6 +32,12 @@
         if n.classList.contains \rerun =>
           n._lzs.src += "?#{Math.random!toString(36).substring(2)}"
           if n.hasAttribute("src") => n.setAttribute("src", n._lzs.src)
+        if n.classList.contains \placeholder =>
+          img = document.createElement("img")
+          n.appendChild img
+          img.src = n._lzs.src
+          img.style.opacity = 0
+
 
     remove: (n) ->
       ns = if Array.isArray(n) => n else [n]
