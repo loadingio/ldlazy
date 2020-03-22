@@ -31,7 +31,7 @@
         n._lzs = {src: n.getAttribute('data-src') or n.getAttribute("src")}
         if n.classList.contains \rerun =>
           n._lzs.src += "?#{Math.random!toString(36).substring(2)}"
-          if n.hasAttribute("src") => n.setAttribute("src", n._lsz.src)
+          if n.hasAttribute("src") => n.setAttribute("src", n._lzs.src)
 
     remove: (n) ->
       ns = if Array.isArray(n) => n else [n]

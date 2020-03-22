@@ -61,7 +61,7 @@
         if (n.classList.contains('rerun')) {
           n._lzs.src += "?" + Math.random().toString(36).substring(2);
           if (n.hasAttribute("src")) {
-            return n.setAttribute("src", n._lsz.src);
+            return n.setAttribute("src", n._lzs.src);
           }
         }
       });
