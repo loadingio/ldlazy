@@ -58,7 +58,7 @@
         n._lzs = {
           src: n.getAttribute('data-src') || n.getAttribute("src")
         };
-        if (n.classList.contain('rerun')) {
+        if (n.classList.contains('rerun')) {
           return n._lzs.src += "?" + Math.random().toString(36).substring(2);
         }
       });
