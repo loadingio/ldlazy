@@ -1,4 +1,5 @@
 (->
+  rn = (s = "", n = "ldlz") -> (if !!/\?/.exec(s) => \& else \?) + "#n=#{Math.random!toString(36).substring(2)}"
   ldLazy = (opt = {}) ->
     root = opt.root
     @opt = {debounce: 10} <<< opt
@@ -29,13 +30,13 @@
         @obs.observe n
         @list.push n
         n._lzs = {src: n.getAttribute('data-src') or n.getAttribute("src")}
-        if n.classList.contains \rerun =>
-          n._lzs.src += "?#{Math.random!toString(36).substring(2)}"
+        if n.classList.contains \nocache =>
+          n._lzs.src += rn(n._lzs.src)
           if n.hasAttribute("src") => n.setAttribute("src", n._lzs.src)
         if n.classList.contains \placeholder =>
           img = document.createElement("img")
           n.appendChild img
-          img.src = n._lzs.src
+          img.src = n._lzs.src + rn(n._lzs.src, "ldlzp")
           img.style.opacity = 0
 
 
