@@ -59,7 +59,10 @@
           src: n.getAttribute('data-src') || n.getAttribute("src")
         };
         if (n.classList.contains('rerun')) {
-          return n._lzs.src += "?" + Math.random().toString(36).substring(2);
+          n._lzs.src += "?" + Math.random().toString(36).substring(2);
+          if (n.hasAttribute("src")) {
+            return n.setAttribute("src", n._lsz.src);
+          }
         }
       });
     },
