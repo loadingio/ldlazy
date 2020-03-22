@@ -53,6 +53,7 @@
         ? n
         : [n];
       return ns.map(function(n){
+        var img;
         this$.obs.observe(n);
         this$.list.push(n);
         n._lzs = {
@@ -61,8 +62,14 @@
         if (n.classList.contains('rerun')) {
           n._lzs.src += "?" + Math.random().toString(36).substring(2);
           if (n.hasAttribute("src")) {
-            return n.setAttribute("src", n._lzs.src);
+            n.setAttribute("src", n._lzs.src);
           }
+        }
+        if (n.classList.contains('placeholder')) {
+          img = document.createElement("img");
+          n.appendChild(img);
+          img.src = n._lzs.src;
+          return img.style.opacity = 0;
         }
       });
     },
