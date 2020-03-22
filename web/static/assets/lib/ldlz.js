@@ -55,9 +55,12 @@
       return ns.map(function(n){
         this$.obs.observe(n);
         this$.list.push(n);
-        return n._lzs = {
-          src: n.getAttribute('data-src')
+        n._lzs = {
+          src: n.getAttribute('data-src') || n.getAttribute("src")
         };
+        if (n.classList.contain('rerun')) {
+          return n._lzs.src += "?" + Math.random().toString(36).substring(2);
+        }
       });
     },
     remove: function(n){

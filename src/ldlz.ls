@@ -28,7 +28,8 @@
       ns.map (n) ~>
         @obs.observe n
         @list.push n
-        n._lzs = {src: n.getAttribute('data-src')}
+        n._lzs = {src: n.getAttribute('data-src') or n.getAttribute("src")}
+        if n.classList.contain \rerun => n._lzs.src += "?#{Math.random!toString(36).substring(2)}"
     remove: (n) ->
       ns = if Array.isArray(n) => n else [n]
       ns.map (n) ~>
