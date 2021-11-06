@@ -1,10 +1,13 @@
 doctype html
-include ../../static/assets/lib/pug/ldui.pug
-html
+include @/@loadingio/bootstrap.ext/dist/index.pug
+html(lang="en")
   head
-    link(href="https://fonts.googleapis.com/css?family=Oxygen:300,700|Roboto:300,500,700|BenchNine|Varela+Round&display=swap", rel="stylesheet")
-    +css("assets/lib/ldui.min.css")
-    +css("assets/lib/bootstrap.min.css")
+    title ldlazy
+    meta(charset="utf-8")
+    meta(name='viewport', content='width=device-width, initial-scale=1.0')
+    meta(name="description",content="loading.io lazy load library")
+    +css("assets/lib/bootstrap/main/css/bootstrap.min.css")
+    +css("assets/lib/@loadingio/bootstrap.ext/main/index.min.css")
     +css("assets/lib/ldlazy/dev/index.min.css")
     +css("css/index.css")
   body
@@ -59,7 +62,6 @@ html
             each i in [1,2,3,4,5]
               img.m-4.ldlz(data-src=`assets/img/c${i}.svg`,style="width:128px;height:128px")
 
-    +script("assets/lib/ldui.min.js")
     +script("assets/lib/ldlazy/dev/index.min.js")
     +script("js/index.js")
 

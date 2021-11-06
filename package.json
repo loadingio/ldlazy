@@ -20,11 +20,22 @@
     "start": "npx server -r web -o true"
   },
   "devDependencies": {
+    "@loadingio/bootstrap.ext": "0.0.1",
+    "@loadingio/debounce.js": "0.0.1",
     "@zbryikt/template": "^2.3.22",
+    "bootstrap": "^4.6.1",
     "fedep": "0.0.17",
     "livescript": "^1.6.0",
     "stylus": "^0.55.0",
     "uglify-js": "^3.2.0",
     "uglifycss": "^0.0.29"
+  },
+  "frontendDependencies": {
+    "root": "web/static/assets/lib",
+    "modules": [
+      "@loadingio/bootstrap.ext",
+      "@loadingio/debounce.js",
+      "bootstrap"
+    ]
   }
 }
