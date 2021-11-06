@@ -1,6 +1,6 @@
 (->
   rn = (s = "", n = "ldlz") -> (if !!/\?/.exec(s) => \& else \?) + "#n=#{Math.random!toString(36).substring(2)}"
-  ldLazy = (opt = {}) ->
+  ldlazy = (opt = {}) ->
     root = opt.root
     @opt = {debounce: 10} <<< opt
     @root = root = if typeof(root) == \string => document.querySelector(root) else if root => root else null
@@ -23,7 +23,7 @@
     @list = []
     @
 
-  ldLazy.prototype = Object.create(Object.prototype) <<< do
+  ldlazy.prototype = Object.create(Object.prototype) <<< do
     add: (n) ->
       ns = if Array.isArray(n) => n else [n]
       ns.map (n) ~>
@@ -66,10 +66,10 @@
         @opt.toggle n, o.visible
 
   window.addEventListener \DOMContentLoaded, ->
-    _ = new ldLazy!
+    _ = new ldlazy!
     lzs = Array.from(document.querySelectorAll('.ldlz'))
     lzs.map -> _.add it
 
-  if module? => module.exports = ldLazy
-  if window => window.ldLazy = ldLazy
+  if module? => module.exports = ldlazy
+  if window => window.ldlazy = ldlazy
 )!

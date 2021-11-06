@@ -10,7 +10,7 @@ html
   body
     .w-100.h-50.vertical-center.text-center.rwd.bg-light
       .w-100
-        h1.display-4.font-weight-bold ldLazy
+        h1.display-4.font-weight-bold ldlazy
         p JS library that "shows" images only if they are in viewport.
         img.ldlz(src="assets/img/sketch-1.gif")
         img.ldlz(src="assets/img/sketch-3.gif")
@@ -20,21 +20,21 @@ html
         .col-md-9
 
           h2 About
-          p Instead of lazy loading, #[b ldLazy] is a lazy "showing" library that shows image only if they are in the viewport.
+          p Instead of lazy loading, #[b ldlazy] is a lazy "showing" library that shows image only if they are in the viewport.
           h2 Usage
-          p include the required files, which could be found in its #[a(href="https://github.com/loadingio/ldLazy/",target="_blank") Github repository]:
+          p include the required files, which could be found in its #[a(href="https://github.com/loadingio/ldlazy/",target="_blank") Github repository]:
           .example.code-block.
             &lt;link rel="stylesheet" type="text/css" href="path-to-ldlazy-dist/index.min.css"&gt;
             &lt;script src="path-to-ldlazy-dist/index.min.js"&gt;&lt;/script&gt;
-          p Then, create and initialize the ldLazy instance:
+          p Then, create and initialize the ldlazy instance:
           .example.code-block.
-            var ldlz = new ldLazy({
+            var ldlz = new ldlazy({
               root: document.body,
               toggle: function(n) { ... }
             });
             ldlz.add( ... );
           h2 Configurations
-          p To config ldLazy, pass an object with configs from any of following:
+          p To config ldlazy, pass an object with configs from any of following:
           ul
             li #[code root] - root element for monitoring scroll.
             li #[code toggle] - when visibility changes, toggle will be called with the target node as param. default null.
