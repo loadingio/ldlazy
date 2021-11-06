@@ -5,7 +5,7 @@ html
     link(href="https://fonts.googleapis.com/css?family=Oxygen:300,700|Roboto:300,500,700|BenchNine|Varela+Round&display=swap", rel="stylesheet")
     +css("assets/lib/ldui.min.css")
     +css("assets/lib/bootstrap.min.css")
-    +css("assets/lib/ldlazy/dev/ldlz.min.css")
+    +css("assets/lib/ldlazy/dev/index.min.css")
     +css("css/index.css")
   body
     .w-100.h-50.vertical-center.text-center.rwd.bg-light
@@ -22,9 +22,10 @@ html
           h2 About
           p Instead of lazy loading, #[b ldLazy] is a lazy "showing" library that shows image only if they are in the viewport.
           h2 Usage
-          p include the required js files, which could be found in its #[a(href="https://github.com/loadingio/ldLazy/",target="_blank") Github repository]:
+          p include the required files, which could be found in its #[a(href="https://github.com/loadingio/ldLazy/",target="_blank") Github repository]:
           .example.code-block.
-            &lt;script src="ldlz.js"&gt;&lt;/script&gt;
+            &lt;link rel="stylesheet" type="text/css" href="path-to-ldlazy-dist/index.min.css"&gt;
+            &lt;script src="path-to-ldlazy-dist/index.min.js"&gt;&lt;/script&gt;
           p Then, create and initialize the ldLazy instance:
           .example.code-block.
             var ldlz = new ldLazy({
@@ -59,6 +60,6 @@ html
               img.m-4.ldlz(data-src=`assets/img/c${i}.svg`,style="width:128px;height:128px")
 
     +script("assets/lib/ldui.min.js")
-    +script("assets/lib/ldlazy/dev/ldlz.min.js")
+    +script("assets/lib/ldlazy/dev/index.min.js")
     +script("js/index.js")
 
