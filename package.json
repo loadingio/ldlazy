@@ -1,7 +1,10 @@
 {
   "author": "Kirby Wu",
-  "name": "ldLazy",
+  "name": "ldlazy",
   "license": "MIT",
+  "files": [
+    "dist/**/*"
+  ],
   "description": "Vanilla JS Lazy Show Library",
   "version": "0.0.1",
   "homepage": "https://github.com/loadingio/ldLazy",
