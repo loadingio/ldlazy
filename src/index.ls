@@ -70,4 +70,4 @@ window.addEventListener \DOMContentLoaded, ->
   lzs.map -> _.add it
 
 if module? => module.exports = ldlazy
-if window => window.ldlazy = ldlazy
+else if window => window.ldlazy = ldlazy

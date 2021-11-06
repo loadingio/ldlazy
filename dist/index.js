@@ -137,8 +137,7 @@
   });
   if (typeof module != 'undefined' && module !== null) {
     module.exports = ldlazy;
-  }
-  if (window) {
+  } else if (window) {
     window.ldlazy = ldlazy;
   }
   function import$(obj, src){
