@@ -1,5 +1,6 @@
 doctype html
 include @/@loadingio/bootstrap.ext/dist/index.pug
+include @static/assets/lib/ldlazy/dev/index.pug
 html(lang="en")
   head
     title ldlazy
@@ -15,9 +16,10 @@ html(lang="en")
       .w-100
         h1.display-4.font-weight-bold ldlazy
         p JS library that "shows" images only if they are in viewport.
-        img.ldlz(src="assets/img/sketch-1.gif")
-        img.ldlz(src="assets/img/sketch-3.gif")
-        img.ldlz(src="assets/img/sketch-5.gif")
+        +ldlz("assets/img/sketch-1.gif")(width="133px",height="133px",alt="face")
+        //-img.ldlz(src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAIA",data-src="assets/img/sketch-1.gif",width="133px",height="133px",alt="face")
+        img.ldlz(src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAIA",data-src="assets/img/sketch-3.gif",width="133px",height="133px",alt="anger")
+        img.ldlz(src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAIA",data-src="assets/img/sketch-5.gif",width="133px",height="133px",alt="butterfly")
     .w-1024.rwd.p-4.mx-auto.typeset.heading-contrast
       .row
         .col-md-9
@@ -63,5 +65,5 @@ html(lang="en")
               img.m-4.ldlz(data-src=`assets/img/c${i}.svg`,style="width:128px;height:128px")
 
     +script("assets/lib/ldlazy/dev/index.min.js")
-    +script("js/index.js")
-
+    script: :lsc
+      ldlazy.init!

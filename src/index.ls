@@ -64,10 +64,16 @@ ldlazy.prototype = Object.create(Object.prototype) <<< do
       if !o.changed => return
       @opt.toggle n, o.visible
 
-window.addEventListener \DOMContentLoaded, ->
-  _ = new ldlazy!
-  lzs = Array.from(document.querySelectorAll('.ldlz'))
-  lzs.map -> _.add it
+ldlazy <<< do
+  px: 'data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAIA'
+  init: ->
+    _ = ->
+      _ = new ldlazy!
+      lzs = Array.from(document.querySelectorAll('.ldlz'))
+      lzs.map -> _.add it
+    rs = document.readyState
+    if rs in <[loaded interactive complete]> => _!
+    else window.addEventListener \DOMContentLoaded, -> _!
 
 if module? => module.exports = ldlazy
 else if window => window.ldlazy = ldlazy

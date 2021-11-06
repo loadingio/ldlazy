@@ -127,13 +127,27 @@
       }
     }
   });
-  window.addEventListener('DOMContentLoaded', function(){
-    var _, lzs;
-    _ = new ldlazy();
-    lzs = Array.from(document.querySelectorAll('.ldlz'));
-    return lzs.map(function(it){
-      return _.add(it);
-    });
+  import$(ldlazy, {
+    px: 'data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAIA',
+    init: function(){
+      var _, rs;
+      _ = function(){
+        var _, lzs;
+        _ = new ldlazy();
+        lzs = Array.from(document.querySelectorAll('.ldlz'));
+        return lzs.map(function(it){
+          return _.add(it);
+        });
+      };
+      rs = document.readyState;
+      if (rs === 'loaded' || rs === 'interactive' || rs === 'complete') {
+        return _();
+      } else {
+        return window.addEventListener('DOMContentLoaded', function(){
+          return _();
+        });
+      }
+    }
   });
   if (typeof module != 'undefined' && module !== null) {
     module.exports = ldlazy;
