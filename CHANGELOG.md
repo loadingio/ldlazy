@@ -1,5 +1,10 @@
 # Change Log
 
+## v1.0.1
+
+ - use a shorter gif placeholder in ldlz mixin
+
+
 ## v1.0.0
 
  - rename `ldlz` in dist to `index`

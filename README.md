@@ -35,6 +35,24 @@ construct a ldlazy object:
  - `ldlz.remove(n)` - stop monitoring node n for visibility change.
 
 
+## Pug Mixin
+
+To make it easier to add an ldlazy image tag, we offer a pug mixin with a minimized gif placeholder, which can be used as:
+
+    include path-to-dist/index.pug
+    +ldlz("your-file")( ...attributes... )
+
+
+An example with `@plotdb/srcbuild`:
+
+    include @/ldlazy/dist/index.pug
+    +ldlz("thumbnail.png").custom-cls(width="800px",height="600px",alt="thumbnail")
+
+which generates following html:
+
+    <img class="ldlz clustom-cls" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="thumbnail.png" width="800px" height="600px" alt="thumbnail">
+
+
 ## How It Works
 
 ldlazy controls the visibility of an element based on the event from IntersectionObserver. Two styles will be touched:
@@ -74,6 +92,36 @@ When using with `img` tag, you may want to fill following attributes to prevent 
    - this is available as a mixin named `ldlz` in Pug after including `dist/index.pug`, with `src` as only parameter:
 
     +ldlz("path-to-your-image")(additional-attribute="here", ...)
+
+
+## Placeholder Image
+
+Placeholder image prefilled in `src` attribute can prevent a broken image or `alt` attribute to be shown. While we may prefer transparent placeholder image, ldlazy actually make elements transparent before revealing them so we actually don't need a real transpareny pixels.
+
+Here are some possible smallest images, with their corresponding sources:
+
+smallest 1px gif (26bytes/58bytes, currently used), may be shown as black in some browsers (e.g., IE11):
+
+    data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=
+
+
+smallest transparent 1px gif (33bytes/66bytes):
+
+    data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAIA
+
+alternative with SVG (41bytes/60bytes)
+
+    data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg"/>
+
+
+check following pages for more resources about a minimal image:
+
+ - 26 bytes one:
+   - https://github.com/mathiasbynens/small
+   - https://stackoverflow.com/questions/6018611/smallest-data-uri-image-possible-for-a-transparent-image
+   - http://probablyprogramming.com/2009/03/15/the-tiniest-gif-ever
+ - 33 bytes one:
+   - https://stackoverflow.com/questions/2570633/smallest-filesize-for-transparent-single-pixel-image
 
 
 ## License
