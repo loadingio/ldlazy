@@ -1,5 +1,10 @@
 # Change Log
 
+## v1.0.2
+
+ - minimize js further with -c -m options
+
+
 ## v1.0.1
 
  - use a shorter gif placeholder in ldlz mixin
