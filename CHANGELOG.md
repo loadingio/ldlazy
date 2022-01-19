@@ -1,5 +1,15 @@
 # Change Log
 
+## v2.0.0
+
+ - check for existence instead of value for populating ldlazy in window
+ - upgrade modules
+ - release with compact directory structure
+ - add `style` in `package.json`
+ - add `main` and `browser` field in `package.json`.
+ - patch test code to make it work with upgraded modules
+
+
 ## v1.0.2
 
  - minimize js further with -c -m options

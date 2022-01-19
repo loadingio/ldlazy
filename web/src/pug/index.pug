@@ -1,5 +1,5 @@
 doctype html
-include @/@loadingio/bootstrap.ext/dist/index.pug
+include @/@loadingio/bootstrap.ext/index.pug
 include @static/assets/lib/ldlazy/dev/index.pug
 html(lang="en")
   head
@@ -7,7 +7,7 @@ html(lang="en")
     meta(charset="utf-8")
     meta(name='viewport', content='width=device-width, initial-scale=1.0')
     meta(name="description",content="loading.io lazy load library")
-    +css("assets/lib/bootstrap/main/css/bootstrap.min.css")
+    +css("assets/lib/bootstrap/main/dist/css/bootstrap.min.css")
     +css("assets/lib/@loadingio/bootstrap.ext/main/index.min.css")
     +css("assets/lib/ldlazy/dev/index.min.css")
     +css("css/index.css")
@@ -64,5 +64,5 @@ html(lang="en")
               img.m-4.ldlz(data-src=`assets/img/c${i}.svg`,style="width:128px;height:128px")
 
     +script("assets/lib/ldlazy/dev/index.min.js")
-    script: :lsc
+    script(type="module"): :lsc
       ldlazy.init!
