@@ -76,4 +76,4 @@ ldlazy <<< do
     else window.addEventListener \DOMContentLoaded, -> _!
 
 if module? => module.exports = ldlazy
-else if window => window.ldlazy = ldlazy
+else if window? => window.ldlazy = ldlazy

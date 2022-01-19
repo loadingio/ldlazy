@@ -151,7 +151,7 @@
   });
   if (typeof module != 'undefined' && module !== null) {
     module.exports = ldlazy;
-  } else if (window) {
+  } else if (typeof window != 'undefined' && window !== null) {
     window.ldlazy = ldlazy;
   }
   function import$(obj, src){
