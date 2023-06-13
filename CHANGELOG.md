@@ -1,5 +1,10 @@
 # Change Log
 
+## v2.0.1 (upcoming)
+
+ - upgrade dependencies for vulnerability fixing
+
+
 ## v2.0.0
 
  - check for existence instead of value for populating ldlazy in window
